@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Jose Ibarra
+	Created March 2014
+-->
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>English Sanguosha</title>	
+</head>
+
+<body id="result">
+<p>test</p>
+
+</body>
+
+<!-- External Javascript Includes -->
+<!-- Jquery declaration -->
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+<script>
+$.get('http://www.englishsanguosha.com/wei/li-dian-7', function( htmlResult ) {
+	console.log(htmlResult);
+	var anchor = $('.sites-layout-tile, .sites-tile-name-header', $(htmlResult))[0];
+	var tableElement = $('table', anchor);
+
+	var heroImageElement = $('img', tableElement)[0];
+
+	//Doesn't work with heroes that have line numbers:
+	//All within table > tr > td > span:
+	//div > {Hero Name}
+	//div > {Hero Description}
+	//Continues:
+	//div > blank
+	//div > {Ability Name}
+	//div > {Ability Description}
+
+	//Maybe isntead:
+	//All within table > tr > td > span:
+	//div > {Hero Name}
+	//div > {Hero Description}
+	//Then get all text for abilities to be parsed later
+
+	console.log(anchor);
+	console.log(tableElement);
+	console.log(heroImageElement);
+	console.log(heroImageElement.src);
+    // var parsedPage = $.parseHTML(htmlResult,document,false);
+    // console.log(parsedPage);
+});
+</script>
+
+</html>

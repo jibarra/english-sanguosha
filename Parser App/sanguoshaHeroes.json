@@ -1,0 +1,2781 @@
+{
+  "weiHeroes": [
+    {
+      "heroName": "Zhang Liao 张辽",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Raid 突袭",
+          "abilityDescription": "During Zhang Liao's drawing phase, he can choose to forego drawing two cards from the deck and instead select up to two characters with hand cards. Zhang Liao takes one hand card from each character and places them in his hand."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-Op6YGKrhkLc/T1PPIaSbHwI/AAAAAAAAAQQ/DPfoY_T-Ve0/s400/Zhang+Liao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/zhang-liao"
+    },
+    {
+      "heroName": "Xiahou Dun 夏侯敦\nOne Eyed Companion 独眼的罗刹",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Unyielding 刚烈",
+          "abilityDescription": "When Xiahou Dun is damaged by another character, he can flip a judgment card. If the card is not a heart, the character that damaged him must either receive one unit of damage from Xiahou Dun or discard two hand cards."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-IH7GWm26vU4/T1POfmNO3uI/AAAAAAAAAOM/6B-bjQuSUaE/s400/Xiahuo+Dun.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xiahou-dun"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh3.googleusercontent.com/-2dhCnhSjYoQ/T1PMgoQUvaI/AAAAAAAAAIE/6Xv3LFUALfw/s400/Cao+Cao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-cao"
+    },
+    {
+      "heroName": "Xu Chu 许诸",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Bare the Chest 裸衣",
+          "abilityDescription": "During Xu Chu's drawing phase, he can choose to draw one fewer card. During his action phase, all damage that he causes by using Attacks or Duels is increased by one."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-7o6eLX8WVpg/T1POl1Zzm0I/AAAAAAAAAOk/_2iLVEgVX_4/s400/Xu+Chu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xu-chu"
+    },
+    {
+      "heroName": "Guo Jia 郭嘉",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Heaven's Envy 天妒",
+          "abilityDescription": "Whenever Guo Jia flips a judgement card, he places into his hand before it takes effect."
+        },
+        {
+          "abilityName": "Bestowed Rouse 遣计",
+          "abilityDescription": "For each unit of damage that Guo Jia receives, he draws two cards. He can then distribute these cards in any way that he sees fit among the characters in play."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-_Njx4EMhxHQ/T1PNYAE-ALI/AAAAAAAAAK0/gmsNR9sT3Mc/s400/Guo+Jia.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/guo-jia"
+    },
+    {
+      "heroName": "Sima Yi 司马懿",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Feedback 反馈",
+          "abilityDescription": "When a player damages Sima Yi, he can choose to take one of their cards and place it in his hand."
+        },
+        {
+          "abilityName": "Devil 鬼才",
+          "abilityDescription": "After a judgement card is flipped, Sima Yi can discard one of his hand cards. The hand card that Sima Yi discard then becomes the new judgement card."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-NgiEmi-JM1A/T1POLW2hRkI/AAAAAAAAANM/OfgTXfvGSUM/s400/Sima+Yi.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/sima-yi"
+    },
+    {
+      "heroName": "Xiahou Yuan 夏侯渊\nRunning Cheetah 急行的猎豹",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Godspeed 神速",
+          "abilityDescription": "During his turn, Xiahou Yuan can exercise either or both of the following options to attack any character regardless of their distance from him:"
+        },
+        {
+          "abilityName": "1.) Skip his judgement and drawing phases.",
+          "abilityDescription": "2.) Skip his action phase and discard any equipment card."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-1ES6xpWv_kY/T1POi3xUs9I/AAAAAAAAAOc/f0eUxiUKWFo/s400/Xiahuo+Yuan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xiahou-yuan"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh4.googleusercontent.com/-982zCR6Y6_A/T1PNCkXlSkI/AAAAAAAAAJ0/3mffQgf5iic/s400/Dian+Wei.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/dian-wei"
+    },
+    {
+      "heroName": "Zhen Ji 甄姬",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Overturned Country 倾国",
+          "abilityDescription": "Zhen Ji can use any black hand card as escape."
+        },
+        {
+          "abilityName": "River Goddess 洛神",
+          "abilityDescription": "Before her judgment phase, Zhen Ji can choose to flip a judgement card. If it is black, she choose to flip over another judgement card. This process continues until Zhen Ji flips a red judgement card. The red judgement card is discarded and the black judgement cards are placed in Zhen Ji's hand."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-T4P5sXUPV14/T1PPPfBG5PI/AAAAAAAAAQo/0yA1k_eqhww/s400/Zhen+Ji.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/zhen-ji"
+    },
+    {
+      "heroName": "Xun Yu 荀彧",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Rouse the Tiger 驱虎",
+          "abilityDescription": "Once during his action phase, Xun Yu can compete with any character with more health. If Xun Yu wins, he can select a player within the target's attacking range and the target deals one unit of damage to that player. If Xun Yu loses, the target deals one unit of damage to Xun Yu."
+        },
+        {
+          "abilityName": "Eternal Loyalty 节命",
+          "abilityDescription": "For each unit of damage that Xun Yu receives, he can select one character. This character then draws cards until the number of cards in their hand is equal to their maximum health limit."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-6bRHVE6dmfo/T1PO0daBxQI/AAAAAAAAAPM/TYtHON_E4JQ/s400/Xun+Yu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xun-yu"
+    },
+    {
+      "heroName": "Cao Pi 曹丕\nDominating Successor 霸业的继承者",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Unnatural Death 行殇",
+          "abilityDescription": "When another character dies, Cao Pi can choose to take all of their cards."
+        },
+        {
+          "abilityName": "Exile 放逐",
+          "abilityDescription": "When Cao Pi is damaged, he can choose any character (other than himself) and force them to flip their character card. The flipped character then draws X cards, X being the difference between Cao Pi's maximum health level and his current health level after the damage was inflicted."
+        },
+        {
+          "abilityName": "Exaltation 颂威",
+          "abilityDescription": "King Ability: When a Wei character flips a black judgement card, they can allow Cao Pi to draw a card."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-noOAb8VQDF8/T1PMiG3aFGI/AAAAAAAAAIM/QxZzW6uxk2g/s400/Cao+Pi.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-pi"
+    },
+    {
+      "heroName": "Xu Huang 徐晃",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Blockade 断粮",
+          "abilityDescription": "Xu Huang can use any black-suited basic or equipment card as Starvation. Furthermore, Xu Huang's range with respect to the use of Starvation is increased by one."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-DVPLRnn9vHc/T1POuN8x1QI/AAAAAAAAAO8/VT5lZEFsqkI/s400/Xu+Huang.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xu-huang"
+    },
+    {
+      "heroName": "Yu Jin 于禁",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Heavy Resolve 毅重",
+          "abilityDescription": "When Yu Jin has no armor equipped, black-suited Attacks have no effect on him."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-VynA7C46dfw/T1PO6M8KytI/AAAAAAAAAPc/Bal0fMOZPdE/s400/Yu+Jin.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/yu-jin"
+    },
+    {
+      "heroName": "Zhang He 张郃",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Clever Change 巧变",
+          "abilityDescription": "At the beginning of any of his phases (judgement, drawing, action, discard), Zhang He can discard a hand card to skip the phase. If Zhang He skips his drawing phase with this ability, he can select up to two characters and draw one hand card from each. If Zhang He skips his action phase in this manner, he can select one piece of equipment or pending delay tool card on one character and place it in an identical location on another character. If he moves equipment in this manner, he cannot use it to replace another similar piece of equipment on another character."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-Cj44V9E7qMg/T1PPBfFkiDI/AAAAAAAAAP0/qazi8WzbZHA/s400/Zhang+He.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/zhang-he"
+    },
+    {
+      "heroName": "Zhang Chun Hua 张春华",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Unfeeling 绝情",
+          "abilityDescription": "All of Zhang Chun Hua's damage is considered to be the target losing health."
+        },
+        {
+          "abilityName": "Mourning 伤逝",
+          "abilityDescription": "Whenever the number of cards in Zhang Chun Hua's hand falls below the number of units of health that she has lost thus far, Zhang Chun Hua can draw cards until she has as many hand cards as she units of health missing. This ability does not go into effect during her discard phase."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-jr4JX-SDnKk/T1PO8dET69I/AAAAAAAAAPs/fugMpdvUwq8/s400/Zhang+ChunHua.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/zhang-chun-hua"
+    },
+    {
+      "heroName": "Deng Ai 邓艾",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Military Farm 屯田",
+          "abilityDescription": "Whenever Deng Ai loses cards outside his turn, he can flip a judgement. If it is not a heart, it becomes a Farm and he acquires it. Each Farm that Deng Ai has gives him the a -1 horse."
+        },
+        {
+          "abilityName": "Strategic Pass 凿险",
+          "abilityDescription": "Awakened Ability: When Deng Ai starts his turn with three or more Farms, he must decrease his maximum health level by one. He then permanently gains the ability use his Farms as steals."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-0e8ALHFmGPo/T1PNC-2PioI/AAAAAAAAAJ8/_EAMC9uIclU/s400/Deng+Ai.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/deng-ai"
+    },
+    {
+      "heroName": "Cao Ren 曹仁",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Entrench 据守",
+          "abilityDescription": "After his discard phase, Cao Ren can choose to flip his character card and draw three cards."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-Vxjs7e3pS8k/T1PMjApLT5I/AAAAAAAAAIU/_k8gQuYEwe0/s400/Cao+Ren.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-ren"
+    },
+    {
+      "heroName": "Yang Xiu 杨修",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Box of Cake 啖酪",
+          "abilityDescription": "When a tool card is played that affects multiple characters including Yang Xiu, he can choose to draw a card immediately. If he chooses to do this, he is not affected by the tool card."
+        },
+        {
+          "abilityName": "Chicken Bone 鸡肋",
+          "abilityDescription": "Whenever Yang Xiu is damaged by another player, he can state any type of card (basic, equipment, or tool). This character cannot use or discard cards of this type for the rest of that turn."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-d1_tr9WKqsk/T1lovjcrjBI/AAAAAAAAAiw/sqx7Onb4xeA/s400/Yang+Xiu+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/yang-xiu-3"
+    },
+    {
+      "heroName": "Cao Zhi 曹植",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Fallen Bloom 落英",
+          "abilityDescription": "Whenever another character discards or flips a judgement card into the discard pile that is a club, Cao Zhi can immediately place this card into his hand."
+        },
+        {
+          "abilityName": "Wine Poems 酒诗",
+          "abilityDescription": "When Cao Zhi is face up, he can choose to flip face down to use Wine (applicable situations only). When Cao Zhi takes damage when he is face down, he can flip face up."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-5zA_qLqdeG4/T1PMn_f7n_I/AAAAAAAAAIc/rzC7L-yxEds/s400/Cao+Zhi.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-zhi"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh6.googleusercontent.com/-pF2FHl24JoY/T1loqEYhA9I/AAAAAAAAAiQ/7zSYStjX8kY/s400/Guan+Yu+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/guan-yu-10"
+    },
+    {
+      "heroName": "Pang De 庞德\nMan and Horse as One 人马一体",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Horsemanship 马术",
+          "abilityDescription": "Pang De always has a bonus -1 horse."
+        },
+        {
+          "abilityName": "Sudden Attack 猛进",
+          "abilityDescription": "Whenever Pang De attacks and the target uses an escape, Pang De can choose a card from the target and discard it."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-hQ2UTO1wdPE/T1POEemTnYI/AAAAAAAAAM0/k3GgBMSLpgo/s400/Pang+De.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/pang-de"
+    },
+    {
+      "heroName": "Jia Xu 贾诩\nCold and Hardened Intellectual 冷酷的毒士",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Complete Kill 完杀",
+          "abilityDescription": "During Jia Xu's turn, only Jia Xu and players on the brink of death can use peach."
+        },
+        {
+          "abilityName": "Upheaval 乱武",
+          "abilityDescription": "Once per game, Jia Xu can force all other players to attack a player in their range.  If a player does not, they lose one health."
+        },
+        {
+          "abilityName": "Curtain 帷幕",
+          "abilityDescription": "Jia Xu cannot be targeted by a black tool card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-l5ELWojG6oE/T1PNmvh2NVI/AAAAAAAAALk/0A0YdbRhbS0/s400/Jia+Xiu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/jia-xu"
+    },
+    {
+      "heroName": "SP Cao Ren 曹仁",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Break Through 溃围",
+          "abilityDescription": "At the end of his turn, Cao Ren can flip his card and draw 2+X cards. At the beginning of his next turn, Cao Ren must discard X cards. In both cases, X is the number of weapons in players' equipment areas."
+        },
+        {
+          "abilityName": "Discipline 严整",
+          "abilityDescription": "If Cao Ren has more hand cards than units of health, he can use his equipped equipment as Negate."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-UZsIh300sGM/T4eXaWyyWXI/AAAAAAAABKQ/VNtmwADp_2E/s400/Cao+Ren+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-ren-7"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh3.googleusercontent.com/-mr3SMsXj54A/T-J4n7BqEWI/AAAAAAAABdE/e3DKtETsyOE/s400/Cao+Zhang.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-zhang"
+    },
+    {
+      "heroName": "Wang Yi 王異",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Chastity 贞烈",
+          "abilityDescription": "Whenever Wang Yi flips a judgement card, she can choose to flip a second judgment card. The second flipped card is the judgement that goes into effect."
+        },
+        {
+          "abilityName": "Secret Plan 秘计",
+          "abilityDescription": "At the beginning and ending of her turn, if she is not at full health, Wang Yi can flip a judgement card. If it is black, she draws X cards from the deck, X being the difference between her current and maximum health. Wang Yi then gives these to any character."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-e7AXlocu1K4/T-J46idrzlI/AAAAAAAABes/5DYdwtGvMyk/s400/Wang+Yi.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/wang-yi"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh6.googleusercontent.com/-sm95XhRV4ZA/T-J46Vh9bsI/AAAAAAAABek/medHyChGijM/s400/Xun+You.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xun-you"
+    },
+    {
+      "heroName": "Cheng Yu 程昱",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Strong Plan 强谋",
+          "abilityDescription": "Once per turn, Cheng Yu can make one person show a hand card, he can then give that person a different color hand card, then he gets the displayed hand card or a non-armor equipment."
+        },
+        {
+          "abilityName": "Vision 远见",
+          "abilityDescription": "At the end of his turn, Cheng Yu can draw until his hand is equal to his health."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-QnZR4dMO0hk/T-NMm_0OS5I/AAAAAAAABjI/wAZMMWmJHWY/s400/Cheng+Yu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cheng-yu"
+    },
+    {
+      "heroName": "Zhong Hui 钟会",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Plotting for Power 权计",
+          "abilityDescription": "For each unit of damage that Zhong Hui receives, he can choose to draw one card then set one hand card face down next to his character card. These are Rites. At the end of his turn, Zhong Hui's hand limit is increased by one for each Rite."
+        },
+        {
+          "abilityName": "Insurrection 自立",
+          "abilityDescription": "When Zhong Hui begins his turn with three or more Rites, he must either recover one health or draw two cards. He then decreases his maximum health by one and gains the ability Rejection.  Once per turn, Zhong Hui can discard one Rite and force any character to draw two. If this character then has more hand cards than Zhong Hui, Zhong Hui deals one damage to them."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-vsbxjkyWO9w/T-NMrQatkLI/AAAAAAAABjg/YYfmIOzgdbI/s400/Zhong+Hui.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/zhong-hui"
+    },
+    {
+      "heroName": "Cai Wen Ji 蔡文姬\nForeign Orphan 异乡的孤女",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Lament 悲歌",
+          "abilityDescription": "Whenever any player is damaged by an attack, Cai Wen Ji can discard any card. The victim then flips a judgment."
+        },
+        {
+          "abilityName": "If it is a heart, the victim regains one health.",
+          "abilityDescription": "If it is a diamond, the victim draws two cards."
+        },
+        {
+          "abilityName": "If it is a club, the source of damage discards two cards.",
+          "abilityDescription": "If it is a spade, the source of damage flips their character card."
+        },
+        {
+          "abilityName": "Heartbroken 断肠",
+          "abilityDescription": "When a player kills Cai Wen Ji, they lose all of their abilities for the rest of the game."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-whdcjkHbUAw/T1PMacu35sI/AAAAAAAAAH8/J-1qsSdfgmA/s400/Cai+Wen+Ji.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/cai-wen-ji"
+    },
+    {
+      "heroName": "New Zhang Chun Hua %&",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Power $%",
+          "abilityDescription": "Description"
+        },
+        {
+          "abilityName": "Power #$",
+          "abilityDescription": "Description"
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-TxxC3HKVPIE/T-KJQQqLcxI/AAAAAAAABfo/ddZ368mFrA8/s400/Zhang+Chun+Hua+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/zhang-chun-hua-4"
+    },
+    {
+      "heroName": "Xiahou Dun 夏侯惇",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Indignation 愤勇",
+          "abilityDescription": "When Xiahou Dun receives damage, he can turn his character card parallel to his health card. When he is in this state, he cannot be damaged."
+        },
+        {
+          "abilityName": "Avenge 雪恨",
+          "abilityDescription": "At the end of any character's turn, if Xiahou Dun's character card is parallel to his health card, he must return it to its normal state. Then, he must do one of the two options:"
+        },
+        {
+          "abilityName": "1.) Select X cards that belong to the character currently playing their turn and discard them, X being the difference between Xiahou Dun's maximum and current health levels.",
+          "abilityDescription": "2.) Select any character. This character is considered to have been attacked by Xiahou Dun."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-rUJuag1AV9s/UU47DIQnf6I/AAAAAAAAELI/pTuIg89GEYU/s400/Xiahou+Dun+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xiahou-dun-5"
+    },
+    {
+      "heroName": "Wang Yuan Ji 王元姬",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Snuff Rebellion 扶亂",
+          "abilityDescription": "Once per turn, Wang Yuan Ji can discard three cards of the same suit and select any other character in her attacking range. This character flips their character card. For the rest of her turn, Wang Yuan Ji cannot attack another character."
+        },
+        {
+          "abilityName": "Virtue 淑德",
+          "abilityDescription": "At the end of her turn, Wang Yuan Ji draws cards until the number of card in her hand is equal to her maximum health limit."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-6H0KgQUNc7I/UU47CXn29yI/AAAAAAAAELA/zuHOHRzGYWE/s400/Wang+Yuan+Ji+5.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/wang-yuan-ji-5"
+    },
+    {
+      "heroName": "Sima Zhao 司马昭",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Transparent 昭心",
+          "abilityDescription": "At the beginning of his action phase, Sima Zhao can show his hand to everyone. Then, he chooses any character in his attack range. This character is attacked by Sima Zhao."
+        },
+        {
+          "abilityName": "Careful Wolf 狼顾",
+          "abilityDescription": "For each unit of damage that Sima Zhao receives on behalf of another character, he can flip a judgement card. Sima Zhao can then choose to discard any hand card to change this judgement card. Sima Zhao then views the hand of the source of damage and he can discard as many cards that are of the same suit as the judgement card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-PtWHHimfQzw/UU47EHrpX-I/AAAAAAAAELU/MFEMx3qRJYE/s400/Sima+Zhao+6.png",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/sima-zhao-6"
+    },
+    {
+      "heroName": "Cao Hong 曹洪",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Intervene 援护",
+          "abilityDescription": "At the end of his turn, Cao Hong can take one of his pieces of equipment (equipped or in his hand) and place it in an unoccupied spot in the equipment area of any character. Depending on the equipment, an action is carried out:"
+        },
+        {
+          "abilityName": "Weapon: Cao Hong selects one card of a character in the target's range and discards it.",
+          "abilityDescription": "Armor: The target draws one card."
+        },
+        {
+          "abilityName": "Horse: The target recovers one unit of health."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-vHe1oT_gU98/UbshTY6pQZI/AAAAAAAAFzU/n_EIlw-4U5A/w398-h567-no/Cao+Hong+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-hong-2"
+    },
+    {
+      "heroName": "Chen Lin 陈琳",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Propaganda 笔伐",
+          "abilityDescription": "At the end of his turn, Chen Lin can place any hand card on another character. At the beginning of this character's turn, they must give Chen Lin one hand card of the same type (basic, tool, or equipment). If they do not, they suffer one unit of negligence damage. If they give Chen Lin a card of the same type, they keep the card that Chen Lin placed on their character card."
+        },
+        {
+          "abilityName": "Eulogize 颂词",
+          "abilityDescription": "During his action phase, Chen Lin can target any character whose hand card number differs from their current health level. If they have more hand cards than health, they must discard two cards. If they have more health than hand cards, they draw two cards. Chen Lin can target each character once per game."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-Iw8-ZHowkR0/UbshgNFWRPI/AAAAAAAAFzg/nICmBfNNS8s/w345-h496-no/Chen+Lin+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/chen-lin-2"
+    },
+    {
+      "heroName": "Man Chong 满宠",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Corporal Punishment 峻刑",
+          "abilityDescription": "Once per turn, Man Chong can select any character and discard any number of hand cards. The target must discard a hand card of a different type than any Man Chong discarded. If they do not, they flip their character card and draw X cards, X being the number of cards discarded by Man Chong."
+        },
+        {
+          "abilityName": "Defense Strategy 御策",
+          "abilityDescription": "When Man Chong is damaged, he can show one of his hand cards. The source of damage must discard a card of a different type or Man Chong recovers one unit of health."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-wRedzSTD6F0/Ub9-_QM3NiI/AAAAAAAAGB4/Q0aEfG7DToY/w361-h515-no/Man+Chong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/man-chong"
+    },
+    {
+      "heroName": "New Wang Yi 王異",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Chastity 贞烈",
+          "abilityDescription": "Whenever New Wang Yi is targeted by an Attack or non-delay tool card, she can choose to suffer one unit of negligence damage. This card has no effect on her and she chooses one of the cards owned by the character that played the card and discards it."
+        },
+        {
+          "abilityName": "Secret Plan 秘计",
+          "abilityDescription": "At the end of her turn, New Wang Yi can draw up to X cards. Then, she must give X hand cards to other players. X can be any number of New Wang Yi's choosing so long as it is no greater than the difference between New Wang Yi's current and maximum health levels."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-m5NPNz3Lvxk/Ub9-_cU1ctI/AAAAAAAAGBk/kic8jfqhyVQ/w358-h517-no/Wang+Yi+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/wang-yi-5"
+    },
+    {
+      "heroName": "Cao Chong 曹冲",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Weigh the Elephant 称象",
+          "abilityDescription": "Whenever Cao Chong is damaged, he can show the top four cards of the deck. He then takes any combination of them so that the total of all the numbers is less than thirteen."
+        },
+        {
+          "abilityName": "Benevolence 仁心",
+          "abilityDescription": "Whenever another character is at the brink of death, Cao Chong can give them his entire hand (so long as he has at least one hand card) and flip his character card to allow that play to recover one unit of health."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-hOr60_FRsYU/UzIbUsqNjAI/AAAAAAAAIY8/2zwSPLBqUc0/w363-h524-no/Cao+Chong+4.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-chong-4"
+    },
+    {
+      "heroName": "Guo Huai 郭淮",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Refined Strategy 精策",
+          "abilityDescription": "At the beginning of his drawing phase, Guo Huai draws two cards if he has used at least X cards during his turn, X being his health level at the beginning of his discard phase."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-Q6Q89hAK4p8/Ub9-_b-WVlI/AAAAAAAAGCU/Tyu7odypY0E/w362-h513-no/Guo+Huai.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/guo-huai"
+    },
+    {
+      "heroName": "Cao Zhen 曹真",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Enemy Foresight 司敵",
+          "abilityDescription": "Whenever Cao Zhen uses an escape or any other player uses an escape during Cao Zhen's turn, he puts the top card of the deck on his general card.  At the beginning of any other players action phase, Cao Zhen can discard one of these cards to reduce the number of attacks that the current player can use by one."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-k9hzyJZOB6g/U7HtYvOYwEI/AAAAAAAAIzI/a6a2xf4JWEk/w416-h595-no/Cao+Zhen+3.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-zhen-3"
+    },
+    {
+      "heroName": "Wen Ping 文聘",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Town Guard 鎮衛",
+          "abilityDescription": "Wen Ping can select up to three other players.  Each of them gets a bonus +1 against players that he did not select."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-Q9Qlhxy-28s/UfBZZ02qMVI/AAAAAAAAGdA/yJ6QoduKMHk/w355-h512-no/Wen+Ping+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/wen-ping-2"
+    },
+    {
+      "heroName": "Chen Qun 陳群",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Production 定品",
+          "abilityDescription": "When Chen Qun damages another player, he can discard any card that is different that the one used to cause damage.  The damaged player then does a judgment.  If it is black, they draw X cards, where X is the amount of damage they received and this player cannot be targeted by Production again this turn.  If the judgment is red, Chen Qun flips his general card."
+        },
+        {
+          "abilityName": "Justice and Mercy 法恩",
+          "abilityDescription": "When any player flips their general card or goes into chains, Chen Qun can let that player draw one."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-PCIpLFLUbog/U7HtR6EgtKI/AAAAAAAAIzA/Bxv1aJE0dgA/w414-h595-no/Chen+Qun.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/chen-qun"
+    },
+    {
+      "heroName": "Han Hao & Shi Huan 韩浩&史渙",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Reckless Abandon 慎断",
+          "abilityDescription": "Whenever Han Hao & Shi Huan discard a black basic card, they can put it on any player as a starvation."
+        },
+        {
+          "abilityName": "Bold Strategy 勇略",
+          "abilityDescription": "Before another player within Han Hao & Shi Huan's attacking range does a judgment for a pending card, they can discard that card.  This counts as them attacking the player doing the judgment.  If the target does not get hurt, Han Hao & Shi Huan draw a card."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-bL3U1EnNkug/U7HuWNdObzI/AAAAAAAAIzg/eVr9vvSsMJw/w416-h595-no/Han+Hao+%2526+Shi+Huan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/han-hao-shi-huan"
+    },
+    {
+      "heroName": "Cao Chong 曹冲",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Weigh the Elephant 称象",
+          "abilityDescription": "Whenever Cao Chong is damaged, he can show the top four cards of the deck. He then takes any combination of them so that the total of all the numbers is less than fourteen."
+        },
+        {
+          "abilityName": "Benevolence 仁心",
+          "abilityDescription": "When another player with one health is damaged, Cao Chong can flip his general card and discard an equipment card.  All the damage is then prevented."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-JxDHX5W4UjI/U7H_Y3xDySI/AAAAAAAAI2U/IAVGpU_Nri8/w414-h594-no/Cao+Chong+5.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-chong-5"
+    },
+    {
+      "heroName": "Li Dian 李典",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Sincerity 恂恂",
+          "abilityDescription": "Li Dian can not draw and look at the top four cards of the deck.  He then chooses two of them and puts them into his hand.  The other two he puts on the bottom of the deck in any order."
+        },
+        {
+          "abilityName": "Lost Opportunity 忘隙",
+          "abilityDescription": "When Li Dian is damaged by a player or causes damage to a player, he can draw a card and the other player will also draw a card for each unit of damage."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-1RWfru3qzYg/VAKU8g7xkNI/AAAAAAAAK0A/canBRRqJXmk/w395-h563-no/Li%2BDian%2B7.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/li-dian-7"
+    },
+    {
+      "heroName": "Cao Cao 曹操",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Evil Hero 奸雄",
+          "abilityDescription": "Whenever Cao Cao is damaged, he can draw one or keep the card that hurt him."
+        },
+        {
+          "abilityName": "Escort 护驾",
+          "abilityDescription": "King Ability: If Cao Cao needs to use an escape, a member of Wei can use an escape on his behalf."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-C_UcDkgDTSI/VAKUw6KuupI/AAAAAAAAKzM/kRKCV-IpqAc/w392-h563-no/Cao%2BCao%2B12.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/cao-cao-12"
+    },
+    {
+      "heroName": "Guo Jia 郭嘉",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Heaven's Envy 天妒",
+          "abilityDescription": "Whenever Guo Jia flips a judgement card, he places into his hand before it takes effect."
+        },
+        {
+          "abilityName": "Bestowed Rouse 遣计",
+          "abilityDescription": "For every unit of damage that Guo Jia recieves, he can draw two cards and choose up to two players and put any hand cards on their general cards face down.  They draw these cards during their next drawing phase."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-s-w_sZkUQQM/VAKU3R37UrI/AAAAAAAAKzo/NVN-W9purGQ/w392-h563-no/Guo%2BJia%2B16.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/guo-jia-16"
+    },
+    {
+      "heroName": "Sima Yi 司马懿",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Feedback 反馈",
+          "abilityDescription": "When a player damages Sima Yi, he can take one of their cards for each unit of damage that he took and place it in his hand."
+        },
+        {
+          "abilityName": "Devil 鬼才",
+          "abilityDescription": "After a judgment is flipped, Sima Yi can discard one of his cards. The card that Sima Yi discarded then becomes the new judgment ."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-AwWuaKN2Pp0/VAKVCz8G4qI/AAAAAAAAK0k/zPweJxddAi0/w394-h563-no/Sima%2BYi%2B19.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/sima-yi-19"
+    },
+    {
+      "heroName": "Xu Chu 许诸",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Bare the Chest 裸衣",
+          "abilityDescription": "Xu Chu can skip his drawing phase to show the top three cards of the deck.  He puts the weapons, duels, and basic cards into his hand.  If he does this, the damage done by Xu Chu with attacks and duels is increased by one until the beginning of his next turn."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-5cd3xqqn1lQ/VAKVG3ua5ZI/AAAAAAAAK08/o2h_qJCAWfU/w396-h563-no/Xu%2BChu%2B5.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xu-chu-5"
+    },
+    {
+      "heroName": "Xiahou Dun 夏侯敦",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Unyielding 刚烈",
+          "abilityDescription": "For every unit of damage Xiahou Dun receives, he can do a judgment.  If it is red, he damages the player that hurt him one.  If it is black, Xiahou Dun discards a card from the player that hurt him."
+        },
+        {
+          "abilityName": "Frugal 清俭",
+          "abilityDescription": "Whenever Xiahou Dun receives cards outside of his turn, he can give the cards he gets to any other player."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-6Xea0yBWMYc/VAKVGt8CheI/AAAAAAAAK0w/aFbUq6Dcsj4/w391-h562-no/Xiahou%2BDun%2B11.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/xiahou-dun-11"
+    },
+    {
+      "heroName": "Zhang Liao 张辽",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Raid 突袭",
+          "abilityDescription": "During his drawing phase, Zhang Liao can draw X fewer cards.  He then chooses X players that have the same amount of hand cards or more as himself.  Zhang Liao takes a hand card from each of these players."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-i_jg9YidBXk/VAKVNP0PGEI/AAAAAAAAK1Y/XkAI1nLdCNI/w394-h563-no/Zhang%2BLiao%2B11.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wei/zhang-liao-11"
+    }
+  ],
+  "wuHeroes": [
+    {
+      "heroName": "Gan Ning 甘宁",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Surprise 奇袭",
+          "abilityDescription": "During his turn, Gan Ning can use any black card as break."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-kmyl-kWvdp8/T1PNNJff5GI/AAAAAAAAAKU/1RFy-j7r6TA/s400/Gan+Ning.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/gan-ning"
+    },
+    {
+      "heroName": "Sun Quan 孙权",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Reconsider 制衡Once during his turn, Sun Quan can discard any number of cards to draw the same number.",
+          "abilityDescription": "Rescued 救援"
+        },
+        {
+          "abilityName": "King Ability: Whenever another member of Wu uses a Peach to save Sun Quan from the brink of death, it provides him with two units of health."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-ujw_du7v1OI/T1POR4DikQI/AAAAAAAAANc/PeODmar1g5g/s400/Sun+Quan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/sun-quan"
+    },
+    {
+      "heroName": "Zhou Yu 周瑜",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Brave Gesture 英姿",
+          "abilityDescription": "During his drawing phase, Zhou Yu can draw an additional card."
+        },
+        {
+          "abilityName": "Sow Revolt 反间",
+          "abilityDescription": "Once per turn, Zhou Yu can select a player and force them to choose a suit. Then, the target chooses one of Zhou Yu's hand cards. The card is then revealed, then placed in the target's hand. If the target guessed the suit incorrectly, they receive one unit of damage on behalf of Zhou Yu."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-Cdh2snXOxGc/T1PPRRCA63I/AAAAAAAAAQ4/KEH-lj8XqHM/s400/Zhou+Yu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhou-yu"
+    },
+    {
+      "heroName": "Huang Gai 黄盖",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Battered Body 苦肉",
+          "abilityDescription": "As many times as he would like during his turn, Huang Gai can choose to lose one unit of health to draw two cards."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-lEMYyaWqiEE/T1PNbZBf-iI/AAAAAAAAALE/nJbX4TXjLtM/s400/Huang+Gai.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/huang-gai"
+    },
+    {
+      "heroName": "Lu Meng 吕蒙",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Self-Restraint 克己",
+          "abilityDescription": "If Lu Meng does not use any Attack cards during his turn, he can skip his discard phase."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-uZjSbQWH0Ac/T1PNzhkhaXI/AAAAAAAAAMM/7-TO1m0Eqic/s400/Lu+Meng.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/lu-meng"
+    },
+    {
+      "heroName": "Da Qiao 大乔",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Country Scene 国色",
+          "abilityDescription": "During Da Qiao's turn, she can use any diamond-suited card as Capture."
+        },
+        {
+          "abilityName": "Displace 流离",
+          "abilityDescription": "When Da Qiao is the target of an Attack, she can discard any card to redirect the Attack to any other player within her attacking range other than the source."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-eBZHGuxLn4o/T1PM-IYp2kI/AAAAAAAAAJs/-SKzt9L-O7o/s400/Da+Qiao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/da-qiao"
+    },
+    {
+      "heroName": "Lu Xun 陆逊",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Humility 谦逊",
+          "abilityDescription": "Lu Xun Cannot be the target of Steal or Capture."
+        },
+        {
+          "abilityName": "Linked Camps 连营",
+          "abilityDescription": "Whenever Lu Xun uses or loses his last hand card, he immediately draws a card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-A4bLGacEQYs/T1PN4IE0l-I/AAAAAAAAAMU/8zbb4Qd4mLw/s400/Lu+Xun.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/lu-xun"
+    },
+    {
+      "heroName": "Sun Shang Xiang 孙尚香",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Marriage 结姻",
+          "abilityDescription": "Once during Sun Shang Xiang's turn, she can discard two hand cards and select a male character who is not at full health. By doing so, she heals herself and the male character one unit of health each."
+        },
+        {
+          "abilityName": "Armed Consorts 枭姬",
+          "abilityDescription": "For each piece of equipment that leaves her equipment area, Sun Shang Xiang draws two cards."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-Mjsf0WO_0sE/T1POUBD-etI/AAAAAAAAANs/Um5H7QpiQH8/s400/Sun+Shang+Xiang.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/sun-shang-xiang"
+    },
+    {
+      "heroName": "Xiao Qiao 小乔\nUnconventional Flower 矫情之花",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Fantasy 天香",
+          "abilityDescription": "When Xiao Qiao receives damage, she can discard any heart hand card pass it to any other character in play. They then draws X cards, X being the total number of health points that the character is missing after the damage is passed."
+        },
+        {
+          "abilityName": "Beauty 红颜",
+          "abilityDescription": "All of Xiao Qiao's spades are considered to be hearts. (Enforced)"
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-X-e6ip5K8cw/T1POiaPLh2I/AAAAAAAAAOU/9SmLr12p8Tg/s400/Xiao+Qiao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/xiao-qiao"
+    },
+    {
+      "heroName": "Zhou Tai 周泰",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Refusing Death 不屈",
+          "abilityDescription": "When Zhou Tai is on the brink of death, he can choose to flip the top card of the deck and put it under his character card.  He is always considered to be on the brink of death. For each additional point of damage, he can choose to flip over another card. When he has two cards that have the same number, Zhou Tai dies. Whenever Zhou Tai is healed in this state, he can choose any of these cards and discard it."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-0eWgJBuPRnI/T1PPQpzJLiI/AAAAAAAAAQw/x_A60_GY70A/s400/Zhou+Tai.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhou-tai"
+    },
+    {
+      "heroName": "Tai Shi Ci 太史慈",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Heaven's Justice 天义",
+          "abilityDescription": "Once per turn, Tai Shi Ci can compete with any character. If he wins, he can use an additional attack and each attack has unlimited range and can target an additional player.  If Tai Shi Ci loses, he cannot attack that turn."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-3dY6IU0V7NA/T1POZD5VfNI/AAAAAAAAAN0/18Ykzo14ZP4/s400/Tai+Shi+Ci.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/tai-shi-ci"
+    },
+    {
+      "heroName": "Sun Jian 孙坚\nEmperor Wulie 武烈帝",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Brave Spirit 英魂",
+          "abilityDescription": "Before his turn, if Sun Jian damaged, he can force anyone to either"
+        },
+        {
+          "abilityName": "1- Draw X cards, then discard 1.",
+          "abilityDescription": "2- Draw 1 card, then discard X."
+        },
+        {
+          "abilityName": "X is how much health Sun Jian is missing."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-4UdhtFHl9xk/T1POSQR0ryI/AAAAAAAAANk/lBJMmWfVl5Q/s400/Sun+Jian.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/sun-jian"
+    },
+    {
+      "heroName": "Ling Tong 凌统",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Whirlwind 旋风",
+          "abilityDescription": "Whenever Ling Tong loses equipment, he can attack anyone or damage someone within range."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-9VAtrcrBMnY/T1PNo6FRaNI/AAAAAAAAALs/ZwINppfWca4/s400/Ling+Tong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/ling-tong"
+    },
+    {
+      "heroName": "Wu Guo Tai 吴国太",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Exposure 甘露",
+          "abilityDescription": "Once per turn, Wu Guo Tai can choose two characters and switch all their equipment.  The difference in the number or equipped items must be less than the amount of health Wu Guo Tai is missing."
+        },
+        {
+          "abilityName": "Amend 补益",
+          "abilityDescription": "When any player is on the brink of death, Wu Guo Tai can display one of their hand cards. If it is not a basic card, it is discarded and the target is healed one.  Otherwise, they keep the card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-SPK3sxXqD54/T1POaffhwYI/AAAAAAAAAOE/-M6xzxLLaeo/s400/Wu+GuoTai.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/wu-guo-tai"
+    },
+    {
+      "heroName": "Xu Sheng 徐盛\nIron Arm of Jiang Dong 江东的铁臂",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Broken Arms 破军",
+          "abilityDescription": "When Xu Sheng damages a player with an attack, he can flip their character card and they draw X cards, X is how much health they have after the damage."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-OLnrpoWureU/T1POsFkofvI/AAAAAAAAAO0/dgtieX-337E/s400/Xu+Sheng.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/xu-sheng"
+    },
+    {
+      "heroName": "Sun Ce 孙策",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Passion 激昂",
+          "abilityDescription": "Whenever Sun Ce uses or is targeted with a duel or red attack, Sun Ce draws a card."
+        },
+        {
+          "abilityName": "Soul Position 魂姿",
+          "abilityDescription": "If, at the beginning of his turn, Sun Ce has one health, Sun Ce must immediately reduce his maximum health by one. Then, Sun Ce permanently gains Brave Gesture and Brave Spirit."
+        },
+        {
+          "abilityName": "Takeover 制霸",
+          "abilityDescription": "King Ability: Other Wu characters can compete with Sun Ce. If Sun Ce wins, he keeps both cards. After Soul Position, Sun Ce can refuse to compete."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-JAi4cJSWv1Q/T1POL_rhy0I/AAAAAAAAANU/7AXnlxlcksE/s400/Sun+Ce.JPG",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/sun-ce"
+    },
+    {
+      "heroName": "Zhang Zhao & Zhang Hong 张昭 & 张紘\nManagers of Heaven and Earth 经天纬地",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Direct Instruction 直谏",
+          "abilityDescription": "As many times as they would like during their turn, Zhang Zhao & Zhang Hong can place a piece of equipment from their hand in the equipment area of another character. They cannot replace a piece of equipment. For each piece of equipment that they place in another character's equipment area, Zhang Zhao & Zhang Hong draw one card."
+        },
+        {
+          "abilityName": "Stubborn 固执",
+          "abilityDescription": "At the end of another character's discard phase, Zhang Zhao & Zhang Hong can return one of the cards that they discarded into their hand. Zhang Zhao & Zhang Hong can then place all other discarded cards in their hand."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-W-Hgk_zZ2fo/T1PPJw7jktI/AAAAAAAAAQg/nII55hIyO3c/s400/Zhang+Zhao+%26+Zhang+Hong.JPG",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhang-zhao-zhang-hong"
+    },
+    {
+      "heroName": "Lu Su 鲁肃",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Charity 好施",
+          "abilityDescription": "Lu Su can choose to draw an additional two cards. If he has more than five cards afterwards, Lu Su must give half of his hand, rounded down, to a character with the least number of hand cards."
+        },
+        {
+          "abilityName": "Alliance 缔盟",
+          "abilityDescription": "Once per turn, Lu Su can discard X cards to force two characters to exchange hands, where X is the difference in the number of hand cards."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-4TfDg5rcvWo/T1PN6-cR-SI/AAAAAAAAAMc/7RcZvq1kGBE/s400/Lu+Su.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/lu-su"
+    },
+    {
+      "heroName": "Han Dang 韩当",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Horsebow 弓骑",
+          "abilityDescription": "Han Dang can use any equipment cards as Attacks. When he uses equipment, the Attack has unlimited range."
+        },
+        {
+          "abilityName": "Relief 解烦",
+          "abilityDescription": "When anyone is on the brink of death, Han Dang can Attack the character who is currently taking their turn. If hits, no damage is dealt and Han Dang uses a Peach on the dying character. This ability can only be activated outside of Han Dang's turn."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-FFRMUeCeQjs/T-J4vD5iThI/AAAAAAAABdw/Z0BRcm9D6Us/s400/Han+Dang.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/han-dang"
+    },
+    {
+      "heroName": "Cheng Pu 程普",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Fierce Fire 疠火",
+          "abilityDescription": "Cheng Pu can use any of his attacks as a fire attack. If he causes damage, Cheng Pu loses one health. Cheng Pu can target an additional player with a Fire Attack."
+        },
+        {
+          "abilityName": "Strong Wine 醇醪",
+          "abilityDescription": "At the end of Cheng Pu's turn, if he has no Alcohol Tokens, he can play any number of attacks as Alcohol Tokens. When anyone is on the brink of death, Cheng Pu can discard an Alcohol Token and get healed from wine."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-v202-VYlPw0/T-J4oYf_PQI/AAAAAAAABdM/4XkAr8v85R0/s400/Cheng+Pu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/cheng-pu"
+    },
+    {
+      "heroName": "Bu Lian Shi 步练师",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Pity 安恤",
+          "abilityDescription": "Once per turn, Bu Lian Shi can choose two other characters with different numbers of hand cards. The character with fewer hand cards displays and takes a hand card from the character with more hand cards. If it is not a spade, Bu Lian Shi draws one card."
+        },
+        {
+          "abilityName": "Memory 追忆",
+          "abilityDescription": "When Bu Lian Shi dies, she can choose any player that did not kill her. This player recovers one health and draws three cards."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-qYBgg7rna_E/T-J4nb3rrvI/AAAAAAAABc8/Yo4c_wZr6es/s400/Bu+Lian+Shi.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/bu-lian-shi"
+    },
+    {
+      "heroName": "New Ling Tong",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Whirlwind",
+          "abilityDescription": "For each instance in which New Ling Tong discard equipment cards in his equipment area or for each instance in which New Ling Tong discards two or more hand cards during his discard phase, New Ling Tong can select up to two cards owned by other characters and discard them."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-evb85gwLoGc/T-KJLz623LI/AAAAAAAABfQ/DC0KiaaoPP4/s400/Ling+Tong+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/ling-tong-10"
+    },
+    {
+      "heroName": "SP Lu Meng 吕蒙",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Scouting the Tiger 探虎",
+          "abilityDescription": "Once during his turn, Lu Meng can compete with any character. If he wins, he gains the following advantages for the rest of his turn:"
+        },
+        {
+          "abilityName": "1.) The distance between Lu Meng and the character is considered to be one.",
+          "abilityDescription": "2.) Non-delay tool cards used by Lu Meng on this character cannot be stopped via Negate."
+        },
+        {
+          "abilityName": "Break Negotiations 谋断",
+          "abilityDescription": "Conversion Ability: Lu Meng has two different states; the Military state and the Culture state. When Lu Meng is in the Military state, he has \"Passion\" and \"Humility\". When Lu Meng is in the Culture state, he has \"Self Restraint\" and \"Brave Gesture\" abilities."
+        },
+        {
+          "abilityName": "At the beginning of the game, Lu Meng is in the Military state. When his hand card number falls to two, he immediately switches to the Culture State. At the beginning of any player's turn, Lu Meng can discard one of his cards and switch back to the Military state."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-NOMt8wfoDFc/UB6-wXYYAxI/AAAAAAAAB88/D-I0QLpT34s/s400/Lu+Meng+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/lu-meng-3"
+    },
+    {
+      "heroName": "Da Qiao 大乔",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Smile 言笑",
+          "abilityDescription": "Da Qiao can place any of her diamond-suited cards into the judgement area of any character. This card is then known as a Smile. A character with a Smile in their judgement area places all cards in their judgement area at the beginning of their turn."
+        },
+        {
+          "abilityName": "Quiet Safety 安娴",
+          "abilityDescription": "Whenever Da Qiao damages another character with an Attack, she can choose to prevent this damage and force the victim to discard one of their hand cards instead. Afterwards, Da Qiao draws one card. Whenever another character targets Da Qiao with an Attack, Da Qiao can discard one hand card to render the Attack ineffective. Then, the attacking character draws one card."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-n2w17qkeHMc/UCgb-T0vYpI/AAAAAAAAB_Q/E7sJUyqD4Ak/s400/Da+Qiao+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/da-qiao-5"
+    },
+    {
+      "heroName": "Zhu Ran 朱然",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Nerves Of Steel 胆守",
+          "abilityDescription": "Whenever Zhu Ran causes damage, he can choose to immediately draw one card and end the current turn. All other effects are ignored when this ability is activated."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-vs-7-E8DcbA/Ub9-_XT7jmI/AAAAAAAAGBs/amL4ZjUJU1o/w363-h516-no/Zhu+Ran+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhu-ran-2"
+    },
+    {
+      "heroName": "Yu Fan 虞翻",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Release Into Abyss 纵玄",
+          "abilityDescription": "Whenever Yu Fan's cards are discarded, he can place them on the top of the deck."
+        },
+        {
+          "abilityName": "Blunt Words 直言",
+          "abilityDescription": "At the end of his turn, Yu Fan can choose any character. This character flips the top card of the deck. If it is a piece of equipment, this card is placed in their equipment area and they recover one unit of health. Otherwise, the card is placed in their hand."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-6u-NHn27vGw/Ub9-_ftZtnI/AAAAAAAAGCA/qR7_Px2NA3k/w363-h518-no/Yu+Fan+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/yu-fan-2"
+    },
+    {
+      "heroName": "Pan Zhang & Ma Zhong 潘璋 & 马忠",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Seize Weapon 夺刀",
+          "abilityDescription": "When Pan Zhang & Ma Zhong are damaged with an attack, they can discard a card and place the equipped weapon of the source in their hand."
+        },
+        {
+          "abilityName": "Silent Arrow 暗箭",
+          "abilityDescription": "When Pan Zhang & Ma Zhong damage a character with an attack and that character does not have Pan Zhang & Ma Zhong in their attack range, the damage is increased by one."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-2MPNiWiV7jk/Ub9-_duxvvI/AAAAAAAAGCI/xrO2evUDg0s/w361-h515-no/Pan+Zhang+%2526+Ma+Zhong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/pan-zhang-ma-zhong"
+    },
+    {
+      "heroName": "New Han Dang 韩当",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Horsebow 弓骑",
+          "abilityDescription": "Once per turn, Han Dang can discard a card to make his attack range unlimited. If the discarded card is a piece of equipment, he can discard a card from another player."
+        },
+        {
+          "abilityName": "Relief 解烦",
+          "abilityDescription": "Single-Use Ability: During his action phase, Han Dang can select any character. Every character that has them within their attacking range must discard a weapon card or allow the target to draw one card."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-Y5trCkpeUd0/Ub9-_dlcWII/AAAAAAAAGB8/tvksRjncmsA/w360-h519-no/Han+Dang+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/han-dang-8"
+    },
+    {
+      "heroName": "Da Qiao & Xiao Qiao 大喬 & 小喬",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Star Dance 星舞",
+          "abilityDescription": "If Da Qiao & Xiao Qiao have not played two cards of different colors during their turn, they can place one of their hand cards on their character card immediately before their discard phase. This card is known as a Step. When Da Qiao & Xiao Qiao acquire three Steps, they must discard all of them and choose any male character. Da Qiao & Xiao Qiao cause two units of damage to this character then discard all of this character's equipment cards."
+        },
+        {
+          "abilityName": "River Swans 落雁",
+          "abilityDescription": "If Da Qiao & Xiao Qiao have at least one Step on their character card, they can use \"Fantasy\" and \"Displace.\""
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-MrcXhsKacWA/UfBMaG256oI/AAAAAAAAGa4/NwCPBpCAjQc/w188-h269-no/Da+Qiao+%2526+Xiao+Qiao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/da-qiao-xiao-qiao"
+    },
+    {
+      "heroName": "Zhuge Jin 诸葛瑾",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Aid 弘援",
+          "abilityDescription": "During Zhuge Jin's drawing phase, he can choose to draw one card and select up to two other characters. These characters also draw a card."
+        },
+        {
+          "abilityName": "Delayed Release 缓释",
+          "abilityDescription": "When any player flips a judgement, they can allow Zhuge Jin, to discard one of his cards. This card becomes the new judgement."
+        },
+        {
+          "abilityName": "Shrewdness 明哲",
+          "abilityDescription": "Whenever Zhuge Jin uses or discards a red card outside of his turn, he can draw a card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-zW63h18ZAGs/UfBZZ7TEiZI/AAAAAAAAGdI/EnzUTFTnG3Q/w357-h513-no/Zhuge+Jin+7.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhuge-jin-7"
+    },
+    {
+      "heroName": "Zhuge Jin 诸葛瑾",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Aid 弘援",
+          "abilityDescription": "During Zhuge Jin's drawing phase, he can choose to draw one card and select up to two other characters. These characters also draw a card."
+        },
+        {
+          "abilityName": "Delayed Release 缓释",
+          "abilityDescription": "When any player flips a judgement, they can allow Zhuge Jin, to discard one of his cards. This card becomes the new judgement."
+        },
+        {
+          "abilityName": "Shrewdness 明哲",
+          "abilityDescription": "Whenever Zhuge Jin uses or discards a red card outside of his turn, he can draw a card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-zW63h18ZAGs/UfBZZ7TEiZI/AAAAAAAAGdI/EnzUTFTnG3Q/w357-h513-no/Zhuge+Jin+7.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhuge-jin-7"
+    },
+    {
+      "heroName": "Zhuge Ke 諸葛恪",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Arrogance 傲才",
+          "abilityDescription": "When Zhuge Ke is prompted to play a basic card outside of his turn, he can view the top two cards of the deck. If the card he is prompted to play is present within the two cards, he can discard this card and he is considered to have used it."
+        },
+        {
+          "abilityName": "Recklessness 黷武",
+          "abilityDescription": "During his turn, Zhuge Ke can choose any other character and discard X cards, X being the health level of the target, and cause one unit of damage to them. Zhuge Jin can use this ability as many times as he would like during his turn until he brings another character to the brink of death. If this happens, Zhuge Ke suffers one unit of negligence damage and is no longer allowed to use the ability for the rest of his turn."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-Bn03RqmpZeA/UfCVE-RWrGI/AAAAAAAAGec/T4AAmtk8FaU/w360-h517-no/Zhuge+Jin+10.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhuge-ke"
+    },
+    {
+      "heroName": "Zhu Huan 朱桓",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Lure 诱敵",
+          "abilityDescription": "At the end of his turn, Zhu Huan can choose any player.  That player discards a hand card from Zhu Huan.  If that card is not an attack, Zhu Huan takes a card from the target."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-0hXiFrYHRUk/U7Hy106_uMI/AAAAAAAAI0U/pb-SAxjQkK4/w415-h595-no/Zhu+Huan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhu-huan"
+    },
+    {
+      "heroName": "Zhu Ran 朱然",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Nerves of Steel 胆守",
+          "abilityDescription": "Once per turn, Zhu Ran can chose any player in his attacking range and discard X cards.  If X is one, the target must discard one.  If X is two, the target must give Zhu Ran a card.  If X is three, Zhu Ran damages the target one.  If X is four or more, both Zhu Ran and the target both draw two cards."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-Lvs5meQBZrM/U7H_tEVhAII/AAAAAAAAI2c/WeO0jMVtkM8/w417-h595-no/Zhu+Ran+3.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhu-ran-3"
+    },
+    {
+      "heroName": "Sun Lu Ban 孫鲁班",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Ruin with Slander 谮毁",
+          "abilityDescription": "Once per turn when Sun Lu Ban uses an attack or a black tool card, she can choose another player that is not the target.  That player then decides to also become the target of the card or to give Sun Lu Ban a card and become the source of the card Sun Lu Ban played."
+        },
+        {
+          "abilityName": "Pride 骄矜",
+          "abilityDescription": "When a male damages Sun Lu Ban, she can discard an equipment card to reduce the amount of damage they take by one."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-nxfBfBb8Rps/U7HybEqvGmI/AAAAAAAAI0E/6CkrbPs9vDc/w415-h594-no/Sun+Lu+Ban+5.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/sun-lu-ban-5"
+    },
+    {
+      "heroName": "Zhou Tai 周泰",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Refusing Death 不屈",
+          "abilityDescription": "Whenever Zhou Tai would be brought to the brink of death, he puts a card on his general card.  If the number on that card is different than all the others, Zhou Tai returns with one health.  If the number matches another card, Zhou Tai discards this card and continues to be on the brink of death.  When Zhou Tai has cards on his general card, his hand limit becomes the number of cards that he has on his general card."
+        },
+        {
+          "abilityName": "Exertion 奋激",
+          "abilityDescription": "Whenever a player has cards taken or discarded by another person, Zhou Tai can lose one health to let that player draw two cards."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-q7iTsryb4HY/UqzDJIQZCRI/AAAAAAAAG-Y/3AI0v1sLzy4/w200-h290-no/Zhou+Tai+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhou-tai-4"
+    },
+    {
+      "heroName": "Da Qiao 大乔",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Country Scene 国色",
+          "abilityDescription": "Each turn, Da Qiao can decide to use any diamond as capture or to use any diamond to remove capture from any player.  When she decides, she draws a card."
+        },
+        {
+          "abilityName": "Displace 流离",
+          "abilityDescription": "When Da Qiao is the target of an attack, she can discard any card to redirect the attack to any other player within her attacking range other than the source."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-NGMuLnvE8JY/VAKUwpAjY-I/AAAAAAAAKzI/yS882ojB90k/w395-h563-no/Da%2BQiao%2B11.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/da-qiao-11"
+    },
+    {
+      "heroName": "Gan Ning 甘宁",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Surprise 奇袭",
+          "abilityDescription": "During his turn, Gan Ning can use any black card as break."
+        },
+        {
+          "abilityName": "Prestige 奋威",
+          "abilityDescription": "When any player uses a tool card that targets two or more people, Gan Ning can prevent that card from targeting any number of the players that are targeted."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-ONxl2xsHvEQ/VAKUwWg0GjI/AAAAAAAAKzA/oEXAYwdyQzU/w395-h563-no/Gan%2BNing%2B8.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/gan-ning-8"
+    },
+    {
+      "heroName": "Gu Yong 顾雍",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Caution 慎行",
+          "abilityDescription": "During his turn, Gu Yong can discard two cards to draw a card."
+        },
+        {
+          "abilityName": "Control 秉壹",
+          "abilityDescription": "At the end of his turn, Gu Yong can reveal his hand.  If all his cards are the same color, he can choose X players and they all draw a card.  X is how many cards are in his hand."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-1ICu7tb7rbs/U7HtaW4mu3I/AAAAAAAAIzQ/0KMLe4kCq-0/w415-h594-no/Gu+Yong+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/gu-yong-2"
+    },
+    {
+      "heroName": "Huang Gai 黄盖",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Bitter Meat 苦肉",
+          "abilityDescription": "Once per turn, Huang Gai can discard a card and lose one health."
+        },
+        {
+          "abilityName": "False Surrender 诈降",
+          "abilityDescription": "For each unit of health that Huang Gai loses, he draws three cards.  If it is during his turn, then Huang Gai's red attacks have unlimited range and cannot be escaped for the rest of the turn.  He can also use an additional attack that turn."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-BNuUmVqVVjk/VAKU6Jj5QOI/AAAAAAAAKz0/zXi3Vf8rUQM/w394-h563-no/Huang%2BGai%2B3.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/huang-gai-3"
+    },
+    {
+      "heroName": "Zhou Yu 周瑜",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Brave Gesture 英姿",
+          "abilityDescription": "During his drawing phase, Zhou Yu can draw an additional card.  Zhou Yu's hand limit does not decrease with his health."
+        },
+        {
+          "abilityName": "Sow Revolt 反间",
+          "abilityDescription": "Once per turn, Zhou Yu can show a hand card and give it to any other player.  They must then either lose one health or show their entire hand and discard all cards of the same suit as the card Zhou Yu just gave them."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-Zd3IxowD2ko/VAKVNkgTH5I/AAAAAAAAK1c/rm_y7uykYoY/w389-h563-no/Zhou%2BYu%2B13.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/zhou-yu-13"
+    },
+    {
+      "heroName": "Lu Xun 陆逊",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Humility 谦逊",
+          "abilityDescription": "Whenever Lu Xun is targeted with a delay tool or if he is the only target of a tool card, he can put all of his hand cards on his general card.  These cards remain there until the end of the current turn, when they return to Lu Xun's hand."
+        },
+        {
+          "abilityName": "Linked Camps 连营",
+          "abilityDescription": "Whenever Lu Xun loses his final hand card, he can choose X people and they all draw a card.  X is how many cards he had before he lost his last card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-p68WGcZ37h4/VAKVA3SkUfI/AAAAAAAAK0Y/UQpx-g6WxhA/w394-h563-no/Lu%2BXun%2B15.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/lu-xun-15"
+    },
+    {
+      "heroName": "Lu Meng 吕蒙",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Self-Restraint 克己",
+          "abilityDescription": "If Lu Meng does not use any attack cards during his turn, he can skip his discard phase."
+        },
+        {
+          "abilityName": "Diligence 勤学",
+          "abilityDescription": "Once per game at the beginning of his turn, if Lu Meng has at least three more hand cards than health, Lu Meng must decrease his maximum by one and he acquires Strike at the Heart.  In a game with seven or more, Lu Meng only needs two more cards than health."
+        },
+        {
+          "abilityName": "Strike at the Heart 攻心",
+          "abilityDescription": "Once per turn, Lu Meng can look at another player's hand. He then can choose a heart card from their hand and display it. Lu Meng then either discards that card or puts in on the top of the deck."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-Yu-L_8zkgTw/VAKU-EXblWI/AAAAAAAAK0M/v85UfsXxiM8/w392-h562-no/Lu%2BMeng%2B8.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/lu-meng-8"
+    }
+  ],
+  "shuHeroes": [
+    {
+      "heroName": "Sun Shang Xiang 孙尚香",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Marriage 结姻",
+          "abilityDescription": "Once during Sun Shang Xiang's turn, she can discard two hand cards and select a male character who is not at full health. By doing so, she heals herself and the male character one unit of health each."
+        },
+        {
+          "abilityName": "Armed Consorts 枭姬",
+          "abilityDescription": "For each piece of equipment that leaves her equipment area, Sun Shang Xiang draws two cards."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-Mjsf0WO_0sE/T1POUBD-etI/AAAAAAAAANs/Um5H7QpiQH8/s400/Sun+Shang+Xiang.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/wu/sun-shang-xiang"
+    },
+    {
+      "heroName": "Liu Bei 刘备",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Kindness 仁德",
+          "abilityDescription": "Liu Bei's can give any number of his hand cards to any players. If he gives away more than one card, he recovers one unit of health."
+        },
+        {
+          "abilityName": "Fierce General 激将",
+          "abilityDescription": "King Ability: If Liu Bei needs to use an attack, he can ask any member of Shu to provide him one."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-EgWNwAMyluY/T1PNtFX-X-I/AAAAAAAAAL0/Zt4OKkYVjIk/s400/Liu+Bei.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/liu-bei"
+    },
+    {
+      "heroName": "Liu Bei 刘备",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Kindness 仁德",
+          "abilityDescription": "Liu Bei's can give any number of his hand cards to any players. If he gives away more than one card, he recovers one unit of health."
+        },
+        {
+          "abilityName": "Fierce General 激将",
+          "abilityDescription": "King Ability: If Liu Bei needs to use an attack, he can ask any member of Shu to provide him one."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-EgWNwAMyluY/T1PNtFX-X-I/AAAAAAAAAL0/Zt4OKkYVjIk/s400/Liu+Bei.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/liu-bei"
+    },
+    {
+      "heroName": "Guan Yu 关羽\nBearded Gentleman 美须公",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Fighting Saint 武圣",
+          "abilityDescription": "Guan Yu can use any red card as an attack."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-mKtwCFzLeig/T1PNVD_awdI/AAAAAAAAAKs/425pWb_NF84/s400/Guan+Yu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/guan-yu"
+    },
+    {
+      "heroName": "Zhang Fei 张飞",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Roar 咆哮",
+          "abilityDescription": "Zhang Fei has no restrictions on how many times he can attack during his turn."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-ON8sSWU9pzw/T1PPB5gaa9I/AAAAAAAAAP8/8Pk5uRQK-ws/s400/Zhang+Fei.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhang-fei"
+    },
+    {
+      "heroName": "Zhao Yun 赵云",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Dragon Courage 龙胆",
+          "abilityDescription": "Zhao Yun can use attacks and escapes interchangeably."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-WlRvvrpqczs/T1PPJhaOqdI/AAAAAAAAAQY/dtJ9uEoO1c8/s400/Zhao+Yun.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhao-yun"
+    },
+    {
+      "heroName": "Ma Chao 马超",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Horsemanship 马术",
+          "abilityDescription": "Ma Chao always has a -1 bonus."
+        },
+        {
+          "abilityName": "Iron Calvary 铁骑",
+          "abilityDescription": "When Ma Chao attacks a player, he can flip a judgment card. If it is red, the attack cannot be escaped."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-u7PVwYpqQVE/T1PN7e8dJYI/AAAAAAAAAMk/UPpTXgIXkFM/s400/Ma+Chao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/ma-chao"
+    },
+    {
+      "heroName": "Zhuge Liang 诸葛亮\nOld Prime Minister 迟暮的丞相",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Astrology 观星",
+          "abilityDescription": "Before his judgment phase, Zhuge Liang can look at the top X cards of the deck, X either the number of characters in play or 5, whichever number is smaller. He can then rearrange the order of these cards and put as many on the bottom of the deck as he chooses."
+        },
+        {
+          "abilityName": "Empty City 空城",
+          "abilityDescription": "When Zhuge Liang has no hand cards, he cannot be the target of an attack or duel."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-bm5P39X2RCs/T1PPYbsmOmI/AAAAAAAAARI/558S4dvMwIo/s400/Zhuge+Liang.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhuge-liang"
+    },
+    {
+      "heroName": "Wei Yan 魏延",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "For each unit of damage that Wei Yan causes damage to somebody in his range, he regains one unit of health."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/--lVB98qbYpI/T1POZWymbsI/AAAAAAAAAN4/wfGZ_eerpnA/s400/Wei+Yan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/wei-yan"
+    },
+    {
+      "heroName": "Huang Yue Ying 黄月英",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Gathering Wisdom 集智",
+          "abilityDescription": "Whenever Huang Yue Ying uses a non-delay tool card, she immediately draws a card"
+        },
+        {
+          "abilityName": "Wondrous Talent 奇才",
+          "abilityDescription": "Whenever Huang Yue Ying uses a tool card, she has no range restrictions."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-Ct2Y_uvnUD4/T1PNeZItLII/AAAAAAAAALM/1SZN6wCgCJk/s400/Huang+Yue+Ying.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/huang-yue-ying"
+    },
+    {
+      "heroName": "Huang Zhong 黄忠",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Strong Bow 烈弓",
+          "abilityDescription": "When Huang Zhong attacks another character during his turn, he can make the attack unblockable if either of the following two conditions are true:"
+        },
+        {
+          "abilityName": "1- Huang Zhong's attack range is greater than or equal to the number of cards in the target's hand.",
+          "abilityDescription": "2- The amount of health that Huang Zhong has is less than or equal to the number of cards in the target's hand."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/--tuA27WN67I/T1PNgcAH1zI/AAAAAAAAALU/K9II4OMEcno/s400/Huang+Zhong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/huang-zhong"
+    },
+    {
+      "heroName": "Pang Tong 庞统",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Shackle 连环",
+          "abilityDescription": "Pang Tong can use any club hand card as Chains."
+        },
+        {
+          "abilityName": "Nirvana 涅槃",
+          "abilityDescription": "Once per game, when Pang Tong is on the brink of death, he can choose to discard all of his cards, draw three cards, and return with three units of health."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-7OnzBtCNVFw/T1POFbOXm-I/AAAAAAAAAM8/HA90VxiYWIg/s400/Pang+Tong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/pang-tong"
+    },
+    {
+      "heroName": "Meng Huo 孟获",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Culprit 祸首",
+          "abilityDescription": "Meng Huo is not affected by barbarians and is always considered the source of any damage it causes."
+        },
+        {
+          "abilityName": "Resurgence 再起",
+          "abilityDescription": "At the beginning of his turn, if Meng Huo is not at full health, he can skip drawing to flip over X cards from the top of the deck.  X is equal to the difference between his current and maximum health. For each heart that is flipped, Meng Huo recovers one health. The heart cards are discarded and the rest of the cards go into Meng Huo's hand."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-nab5E7Yb7jk/T1POGp4PRfI/AAAAAAAAANE/aYmrUtVHXro/s400/Meng+Huo.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/meng-huo"
+    },
+    {
+      "heroName": "Zhu Rong 祝融",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Giant Elephant 巨象",
+          "abilityDescription": "Whenever another character plays barbarians, Zhu Rong is not affected. After all other effects have been concluded, Zhu Rong places the card in her hand."
+        },
+        {
+          "abilityName": "Intense Edge 烈刃",
+          "abilityDescription": "Whenever Zhu Rong damages another character with an attack, she can compete with the character. If she wins, she can take one of their cards and puts it in her hand."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-fPhGQP7vrug/T1PPaJHvuBI/AAAAAAAAARQ/53uOemY3QSM/s400/Zhu+Rong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhu-rong"
+    },
+    {
+      "heroName": "Zhu Rong 祝融",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Giant Elephant 巨象",
+          "abilityDescription": "Whenever another character plays barbarians, Zhu Rong is not affected. After all other effects have been concluded, Zhu Rong places the card in her hand."
+        },
+        {
+          "abilityName": "Intense Edge 烈刃",
+          "abilityDescription": "Whenever Zhu Rong damages another character with an attack, she can compete with the character. If she wins, she can take one of their cards and puts it in her hand."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-fPhGQP7vrug/T1PPaJHvuBI/AAAAAAAAARQ/53uOemY3QSM/s400/Zhu+Rong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhu-rong"
+    },
+    {
+      "heroName": "Ma Su 马谡",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Winning Hearts 心战",
+          "abilityDescription": "Once per turn, if has more cards in his hand than maximum health, Ma Su can look at the top three cards of the deck. He can display any hearts, put them in his hand, and rearrange the rest."
+        },
+        {
+          "abilityName": "Bottomless Tears 挥泪",
+          "abilityDescription": "The player that kills Ma Su must discard all of their cards."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-gVMRKqvLemg/T1PN-iejTSI/AAAAAAAAAMs/4rWz7o_dtbA/s400/Ma+Su.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/ma-su"
+    },
+    {
+      "heroName": "Fa Zheng 法正\nAuxiliary Wing of Shu 蜀汉的辅翼",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Grudge 恩怨",
+          "abilityDescription": "When someone damages Fa Zheng, they must give him a heart card from their hand. If they do not, they receive lose one health. When another character heals Fa Zheng, they draw a card."
+        },
+        {
+          "abilityName": "Dazzle 眩惑",
+          "abilityDescription": "Once during his turn, Fa Zheng can give another character one heart from his hand. Then, he can take any of their cards and give it to any character."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-xi9nyzZkJCo/T1PNKfIBoTI/AAAAAAAAAKM/dbJohuHMCds/s400/Fa+Zheng.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/fa-zheng"
+    },
+    {
+      "heroName": "Xu Shu 徐庶",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Speechless 无言",
+          "abilityDescription": "When other characters use non-delay tools, they have no effect on Xu Shu. When Xu Shu plays non-delay tools, they have no effect on other characters."
+        },
+        {
+          "abilityName": "Recommendation 举荐",
+          "abilityDescription": "During his turn, Xu Shu can discard up to three cards and choose another character. This character then draws the same number of cards that Xu Shu discarded. If Xu Shu discards three cards of the same type, he recovers one unit of health."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-tYKF8TWKdas/T1POroepAeI/AAAAAAAAAOs/ekQLF6X49hw/s400/Xu+Shu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/xu-shu"
+    },
+    {
+      "heroName": "Younger Zhuge Liang 诸葛亮",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Eight Arrays 八阵",
+          "abilityDescription": "If Zhuge Liang has no armor equipped, he has the protection of the eight trigrams."
+        },
+        {
+          "abilityName": "Fire Strategy 火计",
+          "abilityDescription": "Zhuge Liang can use any of his red hand cards as a blaze."
+        },
+        {
+          "abilityName": "See Through 看破",
+          "abilityDescription": "Zhuge Liang can use any of his black hand cards as a negate."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-QVmRnmpboEs/T1PPXP8nL5I/AAAAAAAAARA/xZVkWl4KYL0/s400/Zhuge+Liang+Y.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhuge-liang-8"
+    },
+    {
+      "heroName": "Jiang Wei 姜维",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Instigate 挑嚣",
+          "abilityDescription": "Once during his turn, Jiang Wei may select any player who has him in their attack range.  This character must attack you. If they do not, you may select one of their cards and discard it."
+        },
+        {
+          "abilityName": "Follow the Master 志继",
+          "abilityDescription": "When Jiang Wei starts his turn with no hand cards, he must either regain one unit of health or draw two cards. Then, he decreases his maximum health by one and permanently acquire Astrology."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-k-bC3qJ6BRU/T1PNkrZNRNI/AAAAAAAAALc/lkHr_uD_854/s400/Jiang+Wei.JPG",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/jiang-wei"
+    },
+    {
+      "heroName": "Liu Shan 刘禅\nDestiny's Inactive Man 无为的真命主",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Pleasure 享乐",
+          "abilityDescription": "When someone attacks Liu Shan, they must immediately discard another basic card. Otherwise, the attack and does nothing."
+        },
+        {
+          "abilityName": "Decentralization 放权",
+          "abilityDescription": "Liu Shan can choose to skip his action phase.  At the end of his turn, he discards an additional hand card.  He can choose another character and allow them to immediately have a turn. After this turn, the person to Liu Shan's right begins their turn."
+        },
+        {
+          "abilityName": "Seem Foolish 若愚",
+          "abilityDescription": "King Ability: When Liu Shan has or is tied for the least amount of health at the beginning of his turn, he immediate increases his health limit by one, recovers one unit of health, and permanently gains Fierce General."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-eHn1DkQ_mxU/T1PNtaXIYDI/AAAAAAAAAL4/HEn1Wc0DyEY/s400/Liu+Shan.JPG",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/liu-shan"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh5.googleusercontent.com/-xqFd_7Ka1JM/T-J4tVhVF4I/AAAAAAAABdY/WvR27lqjbxs/s400/Guan+Xing+%26+Zhang+Bao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/guan-xing-zhang-bao"
+    },
+    {
+      "heroName": "Liao Hua 廖化",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Vanguard 当先",
+          "abilityDescription": "At the beginning of his turn, Liao Hua has an additional action phase."
+        },
+        {
+          "abilityName": "Aspiration 伏枥",
+          "abilityDescription": "Single Use Ability: When Liao Hua is on the brink of death, he can choose to flip his character card and return with X units of health, X being the number of countries in the game."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-kLuG8qrDEpk/T-J42e_ltBI/AAAAAAAABeM/iM-Mn2UcLFY/s400/Liao+Hua.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/liao-hua"
+    },
+    {
+      "heroName": "Ma Dai 马岱",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Sneak Attack 潜袭",
+          "abilityDescription": "Whenever Ma Dai damages someone in range with an attack, he can choose to flip a judgment. If it is not a heart, the target's maximum health level is reduced by one rather than being damaged."
+        },
+        {
+          "abilityName": "Horsemanship 马术",
+          "abilityDescription": "Ma Dai always has a bonus -1."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-vpvImdIyGDM/T-J42seKzNI/AAAAAAAABeU/qDJC4AyIm-c/s400/Ma+Dai.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/ma-dai"
+    },
+    {
+      "heroName": "New Fa Zheng 法正",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Grudge 恩怨",
+          "abilityDescription": "Whenever New Fa Zheng receives two or more cards from another person, he can let them draw one card. For each unit of damage that another character causes New Fa Zheng, he can force the source to give him one of their hand cards or suffer one unit of negligence damage."
+        },
+        {
+          "abilityName": "Dazzle 眩惑",
+          "abilityDescription": "During New Fa Zheng's drawing phase, he can forego drawing two cards from the deck and instead force another character to draw two cards. New Fa Zheng then chooses one character in the target's attacking range. The target then must attack this character. If they do not, New Fa Zheng can select two of their cards and place them in his hand."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-KRd1EASr95Q/T-KJK2YSRJI/AAAAAAAABfI/K3dHFSq5TgE/s400/Fa+Zheng+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/fa-zheng-8"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh5.googleusercontent.com/-riN94g_Fhk0/T-KJO7aH1DI/AAAAAAAABfc/rY3gR__V-hw/s400/Xu+Shu+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/xu-shu-8"
+    },
+    {
+      "heroName": "Zhang Fei 张飞",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Fighting Evil 嫉恶",
+          "abilityDescription": "Whenever SP Zhang Fei deals damage with a red attack, the damage is increased by one."
+        },
+        {
+          "abilityName": "Shout 大喝",
+          "abilityDescription": "Once during Zhang Fei's action phase, he can choose any character and compete with them. If Zhang Fei wins, he can allow any character a health level that is less than or equal to his own to keep the opponent's competition card and non-heart-suited Escapes become useless for the rest of Zhang Fei's turn. If Zhang Fei loses the competition, he must show everyone his hand then discard one of his hand cards."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-OvUDRURdBHE/UB7A9aBBCdI/AAAAAAAAB9U/jSLybiFSGNE/s400/Zhang+Fei+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhang-fei-8"
+    },
+    {
+      "heroName": "SP Liu Bei 刘备",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Strength of Heart 昭烈",
+          "abilityDescription": "During his drawing phase, SP Liu Bei can choose to draw one fewer card and force any character in his attacking range to flip over the top three cards in the deck. Any Peaches in these cards are immediately discarded and not taken into consideration for the options below. The target must choose between one of the two following options:"
+        },
+        {
+          "abilityName": "1.) Discard X cards and allow SP Liu Bei to keep the remaining basic cards.",
+          "abilityDescription": "2.) Receive X units of damage from SP Liu Bei and keep the remaining basic cards."
+        },
+        {
+          "abilityName": "In both options, X is defined as the number of non-basic cards",
+          "abilityDescription": "Vow of Revenge 誓仇"
+        },
+        {
+          "abilityName": "King Ability: Single Use Ability: Once during the game, SP Liu Bei can give two of his hand cards to any Shu character before his drawing phase. All damage done to SP Liu Bei is prevented and instead transferred to this Shu character. The target of this ability draws one card for each unit of damage that they receive in this fashion. The effects of this ability end immediately when the target reaches the brink of death for the first time after being targeted by this ability."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-gfqO0z1H1_g/UB6-wW_udHI/AAAAAAAAB84/0qGR-GCKWNo/s400/Liu+Bei+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/liu-bei-7"
+    },
+    {
+      "heroName": "Guan Yin Ping 关银屏",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Blood Sacrifice 血祭",
+          "abilityDescription": "Once per turn, if Guan Yin Ping is damaged, she can discard a red card and choose up to X characters in her attack range, X is the difference between Guan Yin Ping's maximum and current health levels. Each of these characters is damaged one then draws one"
+        },
+        {
+          "abilityName": "Tiger 虎啸",
+          "abilityDescription": "When Guan Yin Ping's attack is blocked by an escape during her turn, she can attack the same target again."
+        },
+        {
+          "abilityName": "Follow Heritage 武继",
+          "abilityDescription": "Once per game at the end of her turn, If Guan Yin Ping has caused at least three damage during her turn, she increases her maximum by one, recovers one, and permanently loses Tigers."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-yb1-3rT7usM/UbskcG_e15I/AAAAAAAAFz8/zgC-X3el8LE/w395-h565-no/Guan+Yin+Ping.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/guan-yin-ping"
+    },
+    {
+      "heroName": "Jian Yong 简雍",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Persuade 巧说",
+          "abilityDescription": "At the beginning of his action phase, Jian Yong can compete with any other character.  If he wins, he can increase or decrease the number of targets of his next basic or non-delay tool by one for this turn. There are no range restrictions the extra target. If he loses, he cannot use any tool cards for the rest of his turn."
+        },
+        {
+          "abilityName": "Ignore Formalities 纵适",
+          "abilityDescription": "Whenever Jian Yong competes, he can keep the loser's competition card."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-Hwry41orNKk/Ub9-_b0T_8I/AAAAAAAAGB0/3XXzjljk1AM/w360-h516-no/Jian+Yong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/jian-yong"
+    },
+    {
+      "heroName": "Liu Feng 刘封",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Fallen Heir 陷嗣",
+          "abilityDescription": "At the beginning of his turn, Liu Feng can select up to two other players.  He takes a card from each and puts them on his character card. These are Betrayals. Other characters can discard two Betrayals to attack Liu Feng."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-1zX3gySbCXk/Ub9-_WXmhkI/AAAAAAAAGCc/JkIUr3SrAQ0/w362-h515-no/Liu+Feng+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/liu-feng-2"
+    },
+    {
+      "heroName": "Guan Ping 关平",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Dragon Roar 龙吟",
+          "abilityDescription": "Whenever any player attacks, Guan Ping can discard any card to allow that player to attack again during that turn. If Guan Ping activates this ability in response to a red-suited Attack, he draws one card."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-tBNYngjWuuY/Ub9-_SocmiI/AAAAAAAAGCY/U7EWBHxh5-I/w362-h515-no/Guan+Ping+5.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/guan-ping-5"
+    },
+    {
+      "heroName": "New Ma Dai 马岱",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Sneak Attack 潜袭",
+          "abilityDescription": "At the beginning of his turn, Ma Dai can flip a judgement card then select any character within his physical range. The target cannot use cards of that color for the rest of Ma Dai's turn."
+        },
+        {
+          "abilityName": "Horsemanship 马术",
+          "abilityDescription": "Ma Dai always has a -1 bonus."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-hxaYfBym8J4/Ub9-_ZbgPxI/AAAAAAAAGCM/kpi5Rn9XXws/w361-h516-no/Ma+Dai+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/ma-dai-8"
+    },
+    {
+      "heroName": "Huang Yue Ying 黄月英",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Wisdom 集智",
+          "abilityDescription": "Whenever Huang Yue Ying uses a tool card, she may flip the top card of the deck.  If it is not a basic card, she puts it into her hand.  If it is a basic, she may exchange it for any card in her hand.  Then it is discarded."
+        },
+        {
+          "abilityName": "Talent 奇才",
+          "abilityDescription": "Huang Yue Ying's tool cards have no distance limitations.  Other players cannot remove Huang Yue Ying's armor unless they are within range to her."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-cvcqCgGPKKY/Ubs8wmA_urI/AAAAAAAAF3I/4dP-WUR7Efc/w336-h481-no/Huang+Yue+Ying+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/huang-yue-ying-2"
+    },
+    {
+      "heroName": "Xiahou Ba 夏侯霸",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Rebelling Panther 豹變",
+          "abilityDescription": "If Xiahou Ba has fewer than four units of health remaining, he can use \"Instigate.\" If Xiahou Ba has fewer than three units of health remaining, he can use \"Roar.\" If Xiahou Ba has fewer than two units of health remaining, he can use \"Godspeed.\""
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-8emWGKXMvfk/UfBMaqJtAzI/AAAAAAAAGbE/_7zzSOTOqzY/w202-h287-no/Xiahou+Ba+3.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/xiahou-ba-3"
+    },
+    {
+      "heroName": "New Guan Xing & Zhang Bao 关兴 & 张苞",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Paternal Souls 父魂",
+          "abilityDescription": "New Guan Xing & Zhang Bao can use any two hand cards as an Attack. If they damage another character with an Attack produced by this ability during their turn, they gain \"Roar\" and \"Fighting Saint\" until the end of their turn."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-FUdlkVv0DcA/Ub9-_b1Dq7I/AAAAAAAAGBo/sVO61cNXagA/w360-h515-no/Guan+Xing+%2526+Zhang+Bao+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/guan-xing-zhang-bao-6"
+    },
+    {
+      "heroName": "Wu Yi 吴懿",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Distant Charge 奔袭",
+          "abilityDescription": "During his turn, whenever Wu Yi uses a card, he gets a bonus -1 horse until the end of his turn.  When all players are within his range, all other armor does not work and he can target an additional player with each attack."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-haJCGtScf9o/U7Hx-3Cw7iI/AAAAAAAAIz0/Q20nWeZ4tgA/w415-h595-no/Wu+Yi.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/wu-yi"
+    },
+    {
+      "heroName": "Zhang Song 张松",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Inside Knowledge 强识",
+          "abilityDescription": "At the beginning of his turn, Zhang Song can choose any other player with a hand.  He chooses a card from them and shows it to everyone.  If Zhang Song uses any card of the same type as that one for the rest of the turn, he draws a card."
+        },
+        {
+          "abilityName": "Map Offering 献图",
+          "abilityDescription": "When any other person starts their turn Zhang Song can draw two cards.  He then gives the target two cards.  If they end their turn without killing another player, Zhang Song loses one health."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-EJDcdH-UTos/U7HyKVxm2hI/AAAAAAAAIz8/-t_FcC3gxK8/w417-h595-no/Zhang+Song.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhang-song"
+    },
+    {
+      "heroName": "Zhou Cang 周倉",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Loyalty and Bravery 忠勇",
+          "abilityDescription": "When Zhou Cang attacks and the target uses an escape, you can give that escape to any player except the one he attacked.  If he gives it to someone other than himself, he can then attack the same player again."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-UA0_MTLVT-s/U7HyxJ6UsNI/AAAAAAAAI0M/8lP1TtCZl2Q/w415-h594-no/Zhou+Cang+11.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhou-cang-11"
+    },
+    {
+      "heroName": "Guan Yu 关羽",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Fighting Saint 武圣",
+          "abilityDescription": "Guan Yu can use any red card as an attack."
+        },
+        {
+          "abilityName": "Absolute Loyalty 义绝",
+          "abilityDescription": "Once per turn, Guan Yu can compete with any other player.  If Guan Yu wins, the other person cannot use any cards from their handor optional character abilities for the rest of the turn.  If Guan Yu loses, he can let the other person recover one health."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-gXs5juTzVGs/VAKU1nyAj8I/AAAAAAAAKzc/ZT-HE4op3HQ/w393-h562-no/Guan%2BYu%2B24.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/guan-yu-24"
+    },
+    {
+      "heroName": "Xu Shu 徐庶",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Punishment 诛害",
+          "abilityDescription": "If another player caused damage during their turn, Xu Shu can attack them at the end of their turn."
+        },
+        {
+          "abilityName": "Painstakingly Intelligent 潜心",
+          "abilityDescription": "Once per game, when Xu Shu causes damage outside of his turn and is not at full health, he must reduce his maximum by one and acquires Introduction."
+        },
+        {
+          "abilityName": "Introduction 荐言‍",
+          "abilityDescription": "Once per turn, Xu Shu can choose a color or suit and reveal cards from the top of the deck until there is a card with the same properties.  Xu Shu then chooses any male player and they put this card in their hand.  The other cards are discarded."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-Nup1QCyDRlc/VAKVHedj5vI/AAAAAAAAK04/SFMgjveVkas/w392-h563-no/Xu%2BShu%2B12.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/xu-shu-12"
+    },
+    {
+      "heroName": "Ma Chao 马超",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Horsemanship 马术",
+          "abilityDescription": "Ma Chao always has a -1 bonus."
+        },
+        {
+          "abilityName": "Iron Calvary 铁骑",
+          "abilityDescription": "When Ma Chao attacks another player he can do a judgment and the target's optional abilities no longer work for the rest of the turn.  Unless the target discards a card of the same suit as the judgment, the cannot use an escape."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-mhCBVUtvWVM/VAKVB6K6GRI/AAAAAAAAK0c/tSDbB7CZKsM/w395-h563-no/Ma%2BChao%2B15.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/ma-chao-15"
+    },
+    {
+      "heroName": "Zhao Yun 赵云",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Dragon Courage 龙胆",
+          "abilityDescription": "Zhao Yun can use attacks and escapes interchangeably."
+        },
+        {
+          "abilityName": "Cornering Maneuver 涯角",
+          "abilityDescription": "Whenever Zhao Yun uses a hand card outside of his turn, he can show the top card of the deck.  If the card he shows is the same type as the one he just used, he can give it to any player.  If it is not, Zhao Yun can discard or replace the card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-bFGYvlB6IPQ/VAKVMYggyhI/AAAAAAAAK1Q/9WgsKB5CHNw/w394-h563-no/Zhao%2BYun%2B29.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhao-yun-29"
+    },
+    {
+      "heroName": "Zhang Fei 张飞",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Roar 咆哮",
+          "abilityDescription": "Zhang Fei has no restrictions on how many times he can attack during his turn"
+        },
+        {
+          "abilityName": "Reinforce 替身",
+          "abilityDescription": "Once per game, at the beginning of his turn, Zhang Fei can return to the same amount of health that he had at the end of his previous turn.  He draws a card for each health that he changes."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-q9cGQ5-tmjk/VAKVKBJrR7I/AAAAAAAAK1E/rGOgbWBluho/w390-h562-no/Zhang%2BFei%2B19.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/zhang-fei-19"
+    }
+  ],
+  "godHeroes": [
+    {
+      "heroName": "Guan Yu 关羽",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "War God 武神",
+          "abilityDescription": "Every heart card in Guan Yu's hand is an attack. Whenever Guan Yu uses one of these attacks, there are no range restrictions."
+        },
+        {
+          "abilityName": "Fighting Soul 武魂",
+          "abilityDescription": "For every unit of damage Guan Yu takes, the source gets a Nightmare Token.  When Guan Yu dies, the player that has the most Nightmare Tokens must flip a judgment card.  If it is not a peach or peach garden, the target immediately dies."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-C5N4lyk9Phg/T1PMuiXFFwI/AAAAAAAAAI0/8bBnElu7uUo/s400/DG+Guan+Yu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/guan-yu-12"
+    },
+    {
+      "heroName": "Lu Meng 吕蒙",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Study 涉猎",
+          "abilityDescription": "During his drawing phase, Lu Meng can not draw to flip over the top five cards of the deck and place one card from each suit into his hand. The rest are discarded."
+        },
+        {
+          "abilityName": "Strike at the Heart 攻心",
+          "abilityDescription": "Once per turn, Lu Meng can look at another player's hand. He then can choose a heart card from their hand and display it. Lu Meng then either discards that card or puts in on the top of the deck."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-dmYPGk1e4dk/T1PMu8Em8HI/AAAAAAAAAI8/V0OQWAqe-g8/s400/DG+Lu+Meng.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/lu-meng-4"
+    },
+    {
+      "heroName": "Zhou Yu 周瑜",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Qin Music 琴音",
+          "abilityDescription": "When Zhou Yu discards two or more cards, he can make all player regain or lose one unit of health."
+        },
+        {
+          "abilityName": "Searing Flame 业炎",
+          "abilityDescription": "Once per game, Zhou Yu can distribute up to three units of fire damage.  If any player receives more than one, Zhou Yu must discard one card from every suit and lose three health."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-uNBkftJ9fxA/T1PM6zabXGI/AAAAAAAAAJc/G0UyPbZWlv0/s400/DG+Zhou+Yu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/zhou-yu-7"
+    },
+    {
+      "heroName": "God Lu Bu 吕布",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Violence 狂暴",
+          "abilityDescription": "At the beginning of the game, Lu Bu gets two Rage Tokens. For every unit of damage he causes or receives, he acquires another Rage Token."
+        },
+        {
+          "abilityName": "No Planning 无谋",
+          "abilityDescription": "When Lu Bu uses a non-delay tool, he must discard one Rage Token or lose one health."
+        },
+        {
+          "abilityName": "Unprecedented 无前",
+          "abilityDescription": "During his turn, Lu Bu can spend two Rage Tokens and select a player. For the rest of the turn, the target's armor is ignored and Lu Bu Matchless for the remainder of this turn."
+        },
+        {
+          "abilityName": "Divine Anger 神愤",
+          "abilityDescription": "Once per turn, Lu Bu can discard six Rage Tokens. Lu Bu then deals one unit of damage to each of the other players. Then, everyone else's equipment is discarded. Next, all other characters must discard four hand cards. Finally, Lu Bu flips his character card."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-OY2HuS0RULE/T1PM2hmBo1I/AAAAAAAAAJU/DgQZgPNo8zo/s400/DG+Lu+Bu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/lu-bu-10"
+    },
+    {
+      "heroName": "God Lu Bu 吕布",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Violence 狂暴",
+          "abilityDescription": "At the beginning of the game, Lu Bu gets two Rage Tokens. For every unit of damage he causes or receives, he acquires another Rage Token."
+        },
+        {
+          "abilityName": "No Planning 无谋",
+          "abilityDescription": "When Lu Bu uses a non-delay tool, he must discard one Rage Token or lose one health."
+        },
+        {
+          "abilityName": "Unprecedented 无前",
+          "abilityDescription": "During his turn, Lu Bu can spend two Rage Tokens and select a player. For the rest of the turn, the target's armor is ignored and Lu Bu Matchless for the remainder of this turn."
+        },
+        {
+          "abilityName": "Divine Anger 神愤",
+          "abilityDescription": "Once per turn, Lu Bu can discard six Rage Tokens. Lu Bu then deals one unit of damage to each of the other players. Then, everyone else's equipment is discarded. Next, all other characters must discard four hand cards. Finally, Lu Bu flips his character card."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-OY2HuS0RULE/T1PM2hmBo1I/AAAAAAAAAJU/DgQZgPNo8zo/s400/DG+Lu+Bu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/lu-bu-10"
+    },
+    {
+      "heroName": "Sima Yi 司马懿",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Command to Endure 忍诫",
+          "abilityDescription": "Sima Yi gains an Endurance Token for each unit of damage he receives and each card he discards during his discard phase."
+        },
+        {
+          "abilityName": "Promotion 拜印",
+          "abilityDescription": "Awakened Ability: If Sima Yi has more than three Endurance Tokens at the beginning of his turn, he must reduce his maximum health level by one. He then permanently acquires the ability to discard an Endurance Token to use any of these abilities when applicable: Devil, Exile, Complete Kill, Reconsider, and Gathering Wisdom."
+        },
+        {
+          "abilityName": "Breaking Links 连破",
+          "abilityDescription": "If Sima Yi kills another player, he can take a turn after the current one."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/--7X03q-qwdA/T1PM06nY3yI/AAAAAAAAAJE/ljWpEddKldI/s400/DG+Sima+Yi.JPG",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/sima-yi-8"
+    },
+    {
+      "heroName": "Cao Cao 曹操",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Tribute 归心",
+          "abilityDescription": "For each unit of damage Cao Cao receives, he can draw one card from every character. He then flips his character card."
+        },
+        {
+          "abilityName": "Flying Shadow 飞影",
+          "abilityDescription": "Cao Cao always has a bonus +1 horse."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-rrMfQVea_Uo/T1PMoZkoOPI/AAAAAAAAAIk/jf0j5g9c0fI/s400/DG+Cao+Cao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/cao-cao-7"
+    },
+    {
+      "heroName": "Zhao Yun 赵云",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Impasse 绝境",
+          "abilityDescription": "During his drawing phase, Zhao Yun draws X extra cards, X being the difference between his current and maximum health levels. Zhao Yun's hand card limit is increased by two."
+        },
+        {
+          "abilityName": "Soul of the Dragon 龙魂",
+          "abilityDescription": "Zhao Yun can use X cards of the same suit, X being the number of units of health Zhao Yun has remaining, for the following:"
+        },
+        {
+          "abilityName": "Hearts - Peach",
+          "abilityDescription": "Diamonds - Fire Attack"
+        },
+        {
+          "abilityName": "Clubs - Escape",
+          "abilityDescription": "Spades - Negate"
+        },
+        {
+          "abilityName": "X is at least one."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-TIKi1a7E1Kc/T1PM1ip5PXI/AAAAAAAAAJM/oRE7h1yR770/s400/DG+Zhao+Yun.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/zhao-yun-13"
+    },
+    {
+      "heroName": "Zhuge Liang 诸葛亮",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Seven Stars 七星",
+          "abilityDescription": "At the beginning of the game, Zhuge Liang draws seven more cards.  He chooses seven of his cards and puts them face down. These are Stars. The rest of the cards are put in his hand. After his drawing phase, Zhuge Liang can exchange any number of cards in his hand for the same number of his stars."
+        },
+        {
+          "abilityName": "Fierce Wind 狂风",
+          "abilityDescription": "At the end of his turn, Zhuge Liang can select any player and discard one Star. Each time this player receives fire damage, the damage is increased by one. This effect lasts until the beginning of Zhuge Liang's next turn."
+        },
+        {
+          "abilityName": "Heavy Fog 大雾",
+          "abilityDescription": "At the end of his turn, Zhuge Liang can select any number of players and discard one star for each. These players are immune to all damage except lightning damage. This effect lasts until the beginning of Zhuge Liang's next turn."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-j4KPB_AmYD4/T1PM63QFsvI/AAAAAAAAAJk/YHEbo8XC0vs/s400/DG+Zhuge+Liang.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/god/zhuge-liang-9"
+    }
+  ],
+  "heroHeroes": [
+    {
+      "heroName": "Pang De 庞德\nMan and Horse as One 人马一体",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Horsemanship 马术",
+          "abilityDescription": "Pang De always has a bonus -1 horse."
+        },
+        {
+          "abilityName": "Sudden Attack 猛进",
+          "abilityDescription": "Whenever Pang De attacks and the target uses an escape, Pang De can choose a card from the target and discard it."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-hQ2UTO1wdPE/T1POEemTnYI/AAAAAAAAAM0/k3GgBMSLpgo/s400/Pang+De.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/pang-de"
+    },
+    {
+      "heroName": "Jia Xu 贾诩\nCold and Hardened Intellectual 冷酷的毒士",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Complete Kill 完杀",
+          "abilityDescription": "During Jia Xu's turn, only Jia Xu and players on the brink of death can use peach."
+        },
+        {
+          "abilityName": "Upheaval 乱武",
+          "abilityDescription": "Once per game, Jia Xu can force all other players to attack a player in their range.  If a player does not, they lose one health."
+        },
+        {
+          "abilityName": "Curtain 帷幕",
+          "abilityDescription": "Jia Xu cannot be targeted by a black tool card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-l5ELWojG6oE/T1PNmvh2NVI/AAAAAAAAALk/0A0YdbRhbS0/s400/Jia+Xiu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/jia-xu"
+    },
+    {
+      "heroName": "Cai Wen Ji 蔡文姬\nForeign Orphan 异乡的孤女",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Lament 悲歌",
+          "abilityDescription": "Whenever any player is damaged by an attack, Cai Wen Ji can discard any card. The victim then flips a judgment."
+        },
+        {
+          "abilityName": "If it is a heart, the victim regains one health.",
+          "abilityDescription": "If it is a diamond, the victim draws two cards."
+        },
+        {
+          "abilityName": "If it is a club, the source of damage discards two cards.",
+          "abilityDescription": "If it is a spade, the source of damage flips their character card."
+        },
+        {
+          "abilityName": "Heartbroken 断肠",
+          "abilityDescription": "When a player kills Cai Wen Ji, they lose all of their abilities for the rest of the game."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-whdcjkHbUAw/T1PMacu35sI/AAAAAAAAAH8/J-1qsSdfgmA/s400/Cai+Wen+Ji.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/cai-wen-ji"
+    },
+    {
+      "heroName": "Ma Chao 马超",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Horsemanship 马术",
+          "abilityDescription": "Ma Chao always has a -1 bonus."
+        },
+        {
+          "abilityName": "Iron Calvary 铁骑",
+          "abilityDescription": "When Ma Chao attacks a player, he can flip a judgment card. If it is red, the attack cannot be escaped."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-u7PVwYpqQVE/T1PN7e8dJYI/AAAAAAAAAMk/UPpTXgIXkFM/s400/Ma+Chao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/shu/ma-chao"
+    },
+    {
+      "heroName": "Hua Tuo 华佗\nGod Doctor 神医",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "First Aid 急救",
+          "abilityDescription": "Outside of his turn, Hua Tuo can use any red card as a peach."
+        },
+        {
+          "abilityName": "Green Vesicle 青囊",
+          "abilityDescription": "Once per turn, Hua Tuo can discard any hand card to heal any character one."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-cAqWvyZ5S_w/T1PNYcA1CZI/AAAAAAAAAK8/cWL9rO2y__0/s400/Hua+Tuo.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/hua-tuo"
+    },
+    {
+      "heroName": "Hua Tuo 华佗\nGod Doctor 神医",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "First Aid 急救",
+          "abilityDescription": "Outside of his turn, Hua Tuo can use any red card as a peach."
+        },
+        {
+          "abilityName": "Green Vesicle 青囊",
+          "abilityDescription": "Once per turn, Hua Tuo can discard any hand card to heal any character one."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-cAqWvyZ5S_w/T1PNYcA1CZI/AAAAAAAAAK8/cWL9rO2y__0/s400/Hua+Tuo.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/hua-tuo"
+    },
+    {
+      "heroName": "Diao Chan 貂蝉",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Sow Discord 离间",
+          "abilityDescription": "Once during her turn, Diao Chan can discard any card and choose two male characters to undergo duel."
+        },
+        {
+          "abilityName": "Eclipse the Moon 闭月",
+          "abilityDescription": "After her discard phase, Diao Chan draws one card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-XofxmyKoJRo/T1PNF5aRukI/AAAAAAAAAKE/JS519nwHWfQ/s400/Diao+Chan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/diao-chan"
+    },
+    {
+      "heroName": "Diao Chan 貂蝉",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Sow Discord 离间",
+          "abilityDescription": "Once during her turn, Diao Chan can discard any card and choose two male characters to undergo duel."
+        },
+        {
+          "abilityName": "Eclipse the Moon 闭月",
+          "abilityDescription": "After her discard phase, Diao Chan draws one card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-XofxmyKoJRo/T1PNF5aRukI/AAAAAAAAAKE/JS519nwHWfQ/s400/Diao+Chan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/diao-chan"
+    },
+    {
+      "heroName": "Diao Chan 貂蝉",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Sow Discord 离间",
+          "abilityDescription": "Once during her turn, Diao Chan can discard any card and choose two male characters to undergo duel."
+        },
+        {
+          "abilityName": "Eclipse the Moon 闭月",
+          "abilityDescription": "After her discard phase, Diao Chan draws one card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-XofxmyKoJRo/T1PNF5aRukI/AAAAAAAAAKE/JS519nwHWfQ/s400/Diao+Chan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/diao-chan"
+    },
+    {
+      "heroName": "Diao Chan 貂蝉",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Sow Discord 离间",
+          "abilityDescription": "Once during her turn, Diao Chan can discard any card and choose two male characters to undergo duel."
+        },
+        {
+          "abilityName": "Eclipse the Moon 闭月",
+          "abilityDescription": "After her discard phase, Diao Chan draws one card."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-XofxmyKoJRo/T1PNF5aRukI/AAAAAAAAAKE/JS519nwHWfQ/s400/Diao+Chan.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/diao-chan"
+    },
+    {
+      "heroName": "Lu Bu 吕布",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Matchless 无双",
+          "abilityDescription": "When Lu Bu attacks a player, they must use an additional escape to stop the attack.  When Lu Bu duels another player, they must use an additional attack every round of the duel."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-qC-7jqk42D4/T1PNvlxqhZI/AAAAAAAAAME/R2chPnau7J0/s400/Lu+Bu.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/lu-bu"
+    },
+    {
+      "heroName": "Yu Ji 于吉\nImmortal of Peace 太平道人",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Bewilder 蛊惑",
+          "abilityDescription": "Whenever Yu Ji wants to use a non-delay tool or basic card, he can play any card face down and speak the card that he wishes to use. Then, anyone can choose to not believe him.  If everybody believes Yu Ji, the card is flipped and goes into effect as stated. If there are any players in doubt, the card is flipped. If Yu Ji is telling the truth, all characters that doubted lose one health. If Yu Ji was not telling the truth, the doubting characters draw a card. If anyone doubted and Yu Ji told the truth and the card is a heart, the card goes into effect.  Otherwise the card is discarded."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-pl5Oj0snKYE/T1PO1rFqwoI/AAAAAAAAAPU/Y6w6gaRNFqc/s400/Yu+Ji.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/yu-ji"
+    },
+    {
+      "heroName": "Zhang Jiao 张角",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Lightning Strike 雷击",
+          "abilityDescription": "Whenever Zhang Jiao plays an escape, he can select any character and have them flip a judgment. If it is a spade, they are dealt two units of lightning damage."
+        },
+        {
+          "abilityName": "Dark Magic 鬼道",
+          "abilityDescription": "After a judgment is flipped, Zhang Jiao can discard any black card to replace the judgment card. The original card that was flipped then goes into Zhang Jiao's hand."
+        },
+        {
+          "abilityName": "Amber Sky 黄天",
+          "abilityDescription": "King Ability: Other heroes can give Zhang Jiao one escape or lightning during their turn."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-tBz3Adt5j4s/T1PPC-i9-HI/AAAAAAAAAQE/kdRGUBABA6k/s400/Zhang+Jiao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/zhang-jiao"
+    },
+    {
+      "heroName": "Yuan Shao 袁绍",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Random Strike 乱击",
+          "abilityDescription": "Yuan Shao can use two hand cards of the same suit as hail of arrows."
+        },
+        {
+          "abilityName": "Bloodline 血裔",
+          "abilityDescription": "King Ability: Yuan Shao's maximum hand limit is increased by two for every other living hero."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-pmeOpxR-XkE/T1PO7g8SJgI/AAAAAAAAAPk/VYlBSwweXAE/s400/Yuan+Shao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/yuan-shao"
+    },
+    {
+      "heroName": "Yan Liang & Wen Chou 颜良 & 文丑\nTiger and Wolf Brothers 虎狼兄弟",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Dueling Heroes 双雄",
+          "abilityDescription": "During Yan Liang and Wen Chou's drawing phase, they can choose to not draw.  Instead they perform a judgment.  The card is then put into their hand.  For the rest of their turn, all of the opposite colored hand cards can be used as duel."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-pk6T676v-Os/T1POzjupGgI/AAAAAAAAAPE/ydQwLrElFf0/s400/Yan+Liang+%26+Wen+Chou.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/yan-liang-wen-chou"
+    },
+    {
+      "heroName": "Gao Shun 高顺\nAttacks Never Overcome 攻无不克",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Ambush 陷阵",
+          "abilityDescription": "Once per turn, Gao Shun can compete with any player.  If he wins, Gao Shun has no limit to attacks against his target and both the distance and the target's armor are ignored.  If Gao Shun loses, he cannot attack this turn."
+        },
+        {
+          "abilityName": "Forbid Drink 禁酒",
+          "abilityDescription": "All Gao Shun's wine is an attack."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-Josa7j5FjTU/T1PNRB_KA0I/AAAAAAAAAKk/UJ4mW5l_8k8/s400/Gao+Shun.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/gao-shun"
+    },
+    {
+      "heroName": "Dong Zhuo 董卓\nDaemon King 魔王",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Wine 酒池",
+          "abilityDescription": "Dong Zhuo can use any spade card in his hand as wine."
+        },
+        {
+          "abilityName": "Garden of Lust 肉林",
+          "abilityDescription": "Whenever Dong Zhuo attacks or is attacked by a female, the target must use an additional escape to avoid damage."
+        },
+        {
+          "abilityName": "Collapse 崩坏",
+          "abilityDescription": "At the end of Dong Zhuo's turn, if he has more units of health than any character, he must either lose one health or reduce his maximum health limit by one."
+        },
+        {
+          "abilityName": "Violent Tyrant 暴虐",
+          "abilityDescription": "King Ability: When another hero damages a player, they can allow Dong Zhuo to flip a judgment. If it is a spade, Dong Zhuo heals one."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-ndx0urWFu4o/T1PNOFq_LNI/AAAAAAAAAKc/p5k7B2Db4nw/s400/Dong+Zhuo.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/dong-zhuo"
+    },
+    {
+      "heroName": "Gong Sun Zan 公孙瓒\nWhite Horse General 白马将军",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Follower of Virtue 义从",
+          "abilityDescription": "When Gong Sun Zan has at least three health, he has a bonus -1.  When he has two or fewer health, he has a bonus +1."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-fXK6FuWhxWo/T1lop6lVlCI/AAAAAAAAAiI/yTt3vYeHHAA/s400/Gong+Sun+Zan+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/gong-sun-zan-10"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh6.googleusercontent.com/-SZyv9WiVvRw/T1PPa7eUi8I/AAAAAAAAARY/CdGUd10ggAk/s400/Zou+Ci.JPG",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/zuo-ci"
+    },
+    {
+      "heroName": "Yuan Shu 袁术",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Trite Rule 庸肆",
+          "abilityDescription": "During Yuan Shu's drawing phase, he draws an extra X cards, X being the number of countries with living players. During his discard phase, he must discard at least X cards."
+        },
+        {
+          "abilityName": "False King 伪帝",
+          "abilityDescription": "Yuan Shu has the king's king ability."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-xqZzgAozQws/T1lov36UxKI/AAAAAAAAAi8/YP5T3skrDIE/s400/Yuan+Shu+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/yuan-shu-5"
+    },
+    {
+      "heroName": "Yuan Shu 袁术",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Trite Rule 庸肆",
+          "abilityDescription": "During Yuan Shu's drawing phase, he draws an extra X cards, X being the number of countries with living players. During his discard phase, he must discard at least X cards."
+        },
+        {
+          "abilityName": "False King 伪帝",
+          "abilityDescription": "Yuan Shu has the king's king ability."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-xqZzgAozQws/T1lov36UxKI/AAAAAAAAAi8/YP5T3skrDIE/s400/Yuan+Shu+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/yuan-shu-5"
+    },
+    {
+      "heroName": "Chen Gong 陈宫\nUpright and Heroic 刚直壮烈",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Brilliant Scheme 明策",
+          "abilityDescription": "Once per turn, Chen Gong can give another player an Attack or equipment card.  The player then chooses to draw one card or allow Chen Gong to choose one character in their attack range. This character is attacked by the player who received the card."
+        },
+        {
+          "abilityName": "Delayed Wisdom 智迟",
+          "abilityDescription": "When Chen Gong is damaged outside of his turn, he is then immune to all Attacks and non-delay tool cards for the rest of that turn. (Enforced)"
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-7lc0oBAeYEQ/T1PMpE1cXOI/AAAAAAAAAIs/7lAK7Hj8Y-g/s400/Chen+Gong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/chen-gong"
+    },
+    {
+      "heroName": "Zhao Yun 赵云",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Dragon Courage 龙胆",
+          "abilityDescription": "Zhao Yun can use Attack and Escape cards interchangeably."
+        },
+        {
+          "abilityName": "Rush Formation 冲阵",
+          "abilityDescription": "Whenever Zhao Yun uses \"Dragon Courage,\" he can immediately take a hand card from the target."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-ALQF5tE4J84/T-uGoXmPd2I/AAAAAAAABms/zH1v95zHoNs/s400/Zhao+Yun+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/zhao-yun-9"
+    },
+    {
+      "heroName": "Hua Xiong 华雄",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Reliant on Valor 恃勇",
+          "abilityDescription": "Whenever Hua Xiong is damaged by either a red attack or an attack with wine, he must reduce his maximum health level by one unit."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-uUSU1MvfrX4/T-J4u0u7nII/AAAAAAAABdo/NQmv8jzES9c/s400/Hua+Xiong.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/hua-xiong"
+    },
+    {
+      "heroName": "",
+      "sanguoshaAbilities": [],
+      "imageUrl": "https://lh3.googleusercontent.com/-RtDw-7mCHB8/T-J41CXHxfI/AAAAAAAABeE/GY2U0HAqjdQ/s400/Liu+Biao.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/liu-biao"
+    },
+    {
+      "heroName": "Gan Ning 甘宁",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Silver Bells 银铃",
+          "abilityDescription": "During his turn, Gan Ning can discard any of his black-suited cards and select a card from another character. He places this card on his character card and it is known as a Brocade. Gan Ning can have up to four 'Brocades' on his character card at one time."
+        },
+        {
+          "abilityName": "Military Prestige 军威",
+          "abilityDescription": "At the end of his turn, SP Gan Ning can discard three \"Brocades\" and select any character. The target chooses one of the following options:"
+        },
+        {
+          "abilityName": "1.) The target discards an escape card. Gan Ning can then give this to any player.",
+          "abilityDescription": "2.) The target loses one health. Gan Ning can then choose one of their equipped cards and place it on their character card. This card is then placed back in its original position in their equipment area at the end of their next turn."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-nYmrlldjbMg/UU47AwZHu2I/AAAAAAAAEK4/xBPTp6v2NLs/s400/Gan+Ning+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/gan-ning-4"
+    },
+    {
+      "heroName": "Li Ru 李儒",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Vanishing Act 绝策",
+          "abilityDescription": "When a character loses their last hand card during Li Ru's turn, he can cause one unit of damage to them."
+        },
+        {
+          "abilityName": "Extermination 灭计",
+          "abilityDescription": "Whenever Li Ru uses a black-suited tool card that targets only one character, he select an additional character and target them as well."
+        },
+        {
+          "abilityName": "Burn the City 焚城",
+          "abilityDescription": "Single-Use Ability: During his action phase, Li Ru can force all other players to discard X cards or receive one unit of fire damage. X is defined as the number of cards that the target has in their equipment area and has a minimum value of one (even if they have no equipped cards)."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-gWcdh5KtSLk/Ub9-_WJfMZI/AAAAAAAAGCE/fU_V0EeknC0/w360-h517-no/Li+Ru+6.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/li-ru-6"
+    },
+    {
+      "heroName": "SP Diao Chan 貂蝉",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Soul Surrender 离魂",
+          "abilityDescription": "Once per turn, SP Diao Chan can discard a card and flip her card. She then chooses any male and takes their hand, putting it into her's. After her action phase, she must give the target the number of her cards equal to their remaining health."
+        },
+        {
+          "abilityName": "Eclipse the Moon 闭月",
+          "abilityDescription": "At the end of her turn, SP Diao Chan draws a card."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-hAr3AYvihqQ/T4edqjDnLGI/AAAAAAAABKk/74B4gFwVS_s/s400/Diao+Chan+SP2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/diao-chan-8"
+    },
+    {
+      "heroName": "Empress Fu 伏皇后",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Anxious Fear 惴恐",
+          "abilityDescription": "If she is is damaged, Empress Fu can compete with another character at the beginning of their turn. If she wins, they skip their action phase. If she loses, she is one distance away from the target for that turn."
+        },
+        {
+          "abilityName": "Plead 求援",
+          "abilityDescription": "When Empress Fu is attacked, she can select any third character that has a hand card. This character must show a card and give it to Empress Fu. If the given card is not an Escape, they are also targeted by the Attack."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-pTZnaNMHr4k/Ub9-_YhOvmI/AAAAAAAAGCQ/7TN7lLlhwc4/w362-h516-no/Empress+Fu+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/empress-fu-2"
+    },
+    {
+      "heroName": "New Yuan Shu 袁术",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Treason 妄尊",
+          "abilityDescription": "At the beginning of the king's turn, New Yuan Shu can draw a card. If he does, the king's hand card limit is reduced by one during their next discard phase."
+        },
+        {
+          "abilityName": "Diseased 同疾",
+          "abilityDescription": "If New Yuan Shu's hand card number exceeds his current health level, characters who have him in their attack range must target him with every Attack that they play. (Enforced)"
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-BkmAL6YH5FPPg2dOHYi28dDR0uJwlR4h8MJDHYGUQo=w336-h479-no",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/yuan-shu-4"
+    },
+    {
+      "heroName": "SP Pang Tong 庞统",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "No Work 漫卷",
+          "abilityDescription": "Whenever Pang Tong acquires hand cards, he discards these cards. If it is his turn, he takes a card with the same number from the discard pile and puts it in his hand."
+        },
+        {
+          "abilityName": "Inebriated 醉乡",
+          "abilityDescription": "Once per game, at the beginning of his turn, Pang Tong can flip over three cards of the deck and place them in front of his character. Pang Tong cannot play or be affected by cards of these types. At the beginning of every subsequent turn, Pang Tong takes another three cards. This process continues until Pang Tong has two cards of the same number.  Then, all these cards move into his hand."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-3YSaj2MOyKw/T5dOePiH2LI/AAAAAAAABQE/1GJPMby4wsg/s400/Pang+Tong+SP.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/pang-tong-2"
+    },
+    {
+      "heroName": "Liu Xie 刘协",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Mandate of Heaven天命",
+          "abilityDescription": "When Liu Xie is attacked, he can discard two cards (or all of his cards if he has less than two) then draw two cards. If there is a player whose current health level exceeds that of all other players, they can choose to also carry out this action."
+        },
+        {
+          "abilityName": "Secret Edict 密诏",
+          "abilityDescription": "Once during his turn, Liu Xie can give his entire hand to any player and chooses a second character that has at least one hand card. The target of the ability then competes with the second character chosen by Liu Xie. The winner of the competition attacks the loser."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-3LOj2oAtKUY/Ubs8uO1S-2I/AAAAAAAAF20/zys4kGfFGuE/w377-h537-no/Liu+Xie+7.JPG",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/liu-xie-7"
+    },
+    {
+      "heroName": "New Hua Xiong 华雄",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Military Glory 耀武",
+          "abilityDescription": "Whenever a character damages New Hua Xiong with a red-suited Attack, they can choose to either draw one card or recover one unit of health. (Enforced)"
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-2c0skocEvaI/Ubs8uHSi-ZI/AAAAAAAAF2w/YU_QtO9kEdE/w338-h479-no/Hua+Xiong+11.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/hua-xiong-11"
+    },
+    {
+      "heroName": "Ling Ju 靈雎",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Deplete Karma 竭緣",
+          "abilityDescription": "When Ling Ju is damaged by another player whose health level is no greater than that of her own, she can discard a red-suited hand card to reduce the damage by one. When Ling Ju damages any other player whose health is no lower than that of her own, she can discard a black-suited hand card to increase the damage by one."
+        },
+        {
+          "abilityName": "Burning Heart 焚心",
+          "abilityDescription": "Single-Use Ability: When Ling Ju kills another character, Ling Ju can exchange role cards with the player that she just killed. Ling Ju cannot activate this ability if she is the king or the person she killed is the king."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-ATgUAEAUOJU/UfBMaRDncgI/AAAAAAAAGbI/ujFL_Kxfy5k/w194-h280-no/Ling+Ju+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/ling-ju-2"
+    },
+    {
+      "heroName": "New Gong Sun Zan 公孙瓒",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Follower of Virtue 义从",
+          "abilityDescription": "When he has more than two health, Gong San Zan has a bonus -1. When he has two health or less, Gong San Zan has a bonus +1."
+        },
+        {
+          "abilityName": "Fortify 筑楼",
+          "abilityDescription": "At the end of his turn, Gong San Zan can draw two cards.  He then loses one health or discards a weapon."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-G4xqaAjToh0/UfbAyGuOMiI/AAAAAAAAGk0/aNu9EKkny1I/w394-h563-no/Gong+Sun+Zan+N.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/gong-sun-zan-9"
+    },
+    {
+      "heroName": "Lady Cai 蔡夫人",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Eavesdrop 窃听",
+          "abilityDescription": "If another player does not target anyone with cards during their turn, Lady Cai can either draw one or take one of their equipped cards and equip it on herself."
+        },
+        {
+          "abilityName": "Surrender 献州",
+          "abilityDescription": "Once per turn, Lady Cai can give any other player all of her equipped cards.  The target then decides to let Lady Cai recover X or to damage up to X people in their attack range.  X is the number of cards that she gave."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-dMiavkfB678/U7Huewtnw8I/AAAAAAAAIzo/fFy1RbCqXAw/w412-h595-no/Lady+Cai.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/lady-cai"
+    },
+    {
+      "heroName": "Empress Fu 伏皇后",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Anxious Fear 惴恐",
+          "abilityDescription": "If Empress Fu is damaged at the beginning of another player's turn, she can compete with that player.  If she wins, the target cannot use any cards that affect other people.  If she loses, the distance from the target to her is reduced to one.  Either case lasts until the end of the turn."
+        },
+        {
+          "abilityName": "Plead 求援",
+          "abilityDescription": "When she is attacked, Empress Fu can target any third player.  That player must give Empress Fu an escape or become an additional target to the attack."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-wizBWUZia3U/U7H_TZS8xaI/AAAAAAAAI2M/YxHcAXOdBd4/w414-h595-no/Empress+Fu+4.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/empress-fu-4"
+    },
+    {
+      "heroName": "Fu Wan 伏完",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Plan for Defeat 謀潰",
+          "abilityDescription": "When Fu Wan attacks another character, he can draw a card or discard one of the target's cards. If he does either and the attack is escaped, the target can discard one of Fu Wan's cards."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-VFBNDI6bvQ4/UfCVESCA5lI/AAAAAAAAGeY/HOm9kdPYJrA/w358-h512-no/Fu+Wan+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/fu-wan-2"
+    },
+    {
+      "heroName": "Zhang Jiao 张角",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Lightning Strike 雷击",
+          "abilityDescription": "Whenever Zhang Jiao plays an escape, he can select any character and have them flip a judgment. If it is black, they are dealt one unit of lightning damage and Zhang Jiao heals one."
+        },
+        {
+          "abilityName": "Dark Magic 鬼道",
+          "abilityDescription": "After a judgment is flipped, Zhang Jiao can discard any black card to replace the judgment card. The original card that was flipped then goes into Zhang Jiao's hand."
+        },
+        {
+          "abilityName": "Amber Sky 黄天",
+          "abilityDescription": "King Ability: Other heroes can give Zhang Jiao one escape or lightning during their turn."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-tix6o2k6unc/UfWDhcuUdII/AAAAAAAAGjw/1_Vtm9LGnAk/w277-h399-no/Zhang+Jiao+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/zhang-jiao-2"
+    },
+    {
+      "heroName": "Li Ru 李儒",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Vanishing Act 绝策",
+          "abilityDescription": "At the end of his turn, Li Ru can damage any player that does not have any hand cards."
+        },
+        {
+          "abilityName": "Extermination 灭计",
+          "abilityDescription": "Once per turn, Li Ru can show a black tool card and put it on top of the deck.  He then chooses any other player with hand cards.  They must discard one tool card or two non-tool cards."
+        },
+        {
+          "abilityName": "Burn the City 焚城",
+          "abilityDescription": "Once per game, Li Ru can make all other players discard at least X cards or take two fire damage.  X is one more than the number of cards the previous player discarded."
+        }
+      ],
+      "imageUrl": "https://lh6.googleusercontent.com/-rHo0BIk6eDw/U7H_SrsXSzI/AAAAAAAAI2I/j-n80TucyvY/w412-h595-no/Li+Ru+8.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/li-ru-8"
+    },
+    {
+      "heroName": "Ju Shou 沮授",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Progressive Strategy 渐营",
+          "abilityDescription": "When the card he uses has the same color or number as the previous card he used during the same turn, he can draw a card."
+        },
+        {
+          "abilityName": "Northern Arrow 矢北",
+          "abilityDescription": "When Ju Shou is damaged by a card, if he was already damaged by the same card, he heals one before he takes damage."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-pHbv5AVTEGI/U7HuSwgMvbI/AAAAAAAAIzY/vZS2PjJjG1U/w417-h595-no/Ju+Shou+2.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/ju-shou-2"
+    },
+    {
+      "heroName": "Gong Sun Zan 公孙瓒",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Fierce Mount 趫猛",
+          "abilityDescription": "Whenever Gong Sun Zan causes damage with a black attack, he can discard an equipped card from the person that he damaged.  If he discards a horse, he then puts it into his hand."
+        },
+        {
+          "abilityName": "Follower of Virtue 义从",
+          "abilityDescription": "When Gong Sun Zan has at least three health, he has a bonus -1.  When he has two or fewer health, he has a bonus +1."
+        }
+      ],
+      "imageUrl": "https://lh4.googleusercontent.com/-mF_rC3jZXfI/VAKUzUphkkI/AAAAAAAAKzU/JLJypVtaTm8/w392-h563-no/Gong%2BSun%2BZan%2B13.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/gong-sun-zan-13"
+    },
+    {
+      "heroName": "Hua Tuo 华佗",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Medicine Bag 除疠",
+          "abilityDescription": "If Hua Tuo has a hand, he can target any number of players from different countries.  Hua Tuo and these people all discard a card.  If anyone discarded a spade, that person then draws a card."
+        },
+        {
+          "abilityName": "First Aid 急救",
+          "abilityDescription": "Outside of his turn, Hua Tuo can use any red card as a peach."
+        }
+      ],
+      "imageUrl": "https://lh5.googleusercontent.com/-nCRqlPZ5214/VAKU4PxF6WI/AAAAAAAAKzs/K0gEwHEuJN0/w392-h563-no/Hua%2BTuo%2B10.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/hua-tuo-10"
+    },
+    {
+      "heroName": "Lu Bu 吕布",
+      "sanguoshaAbilities": [
+        {
+          "abilityName": "Matchless 无双",
+          "abilityDescription": "When Lu Bu attacks a player, they must use an additional escape to stop the attack.  When Lu Bu duels another player, they must use an additional attack every round of the duel."
+        },
+        {
+          "abilityName": "Bribery 利驭",
+          "abilityDescription": "When Lu Bu damages another player with an attack, they can allow Lu Bu to take a card from them.  They then choose any third player and Lu Bu duels them."
+        }
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-sq2bZ797uo0/VAKU8-Ee4FI/AAAAAAAAK0E/_bymItR__gQ/w394-h563-no/Lu%2BBu%2B17.jpg",
+      "originalSiteUrl": "http://www.englishsanguosha.com/hero/lu-bu-17"
+    }
+  ]
+}

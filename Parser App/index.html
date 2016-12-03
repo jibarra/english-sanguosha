@@ -19,19 +19,39 @@
 <!-- External Javascript Includes -->
 <!-- Jquery declaration -->
 <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="js/parser.js"></script>
+<script src="js/sanguoshaHeroes.js"></script>
+<script src="js/sanguoshaParser.js"></script>
 <!--Can't parse english sanguosha-->
 <!--<script src="js/lib/pure-js-html5-parser/htmlparser.js"></script>-->
 
 <script>
+	var allHeroes = new SanguoshaAllHeroes();
 
-//parseHero();
-parseHeroPage("http://www.englishsanguosha.com/wei");
-parseHeroPage("http://www.englishsanguosha.com/shu");
-parseHeroPage("http://www.englishsanguosha.com/wu");
-parseHeroPage("http://www.englishsanguosha.com/hero");
-parseHeroPage("http://www.englishsanguosha.com/god");
-
+	var weiParser = new SanguoshaParser();
+	weiParser.parseCharacterListPage("http://www.englishsanguosha.com/wei", function(heroes){
+		allHeroes.weiHeroes = heroes;
+        allHeroes.checkAllHeroesFilled();
+	});
+	var shuParser = new SanguoshaParser();
+	shuParser.parseCharacterListPage("http://www.englishsanguosha.com/shu", function(heroes){
+		allHeroes.shuHeroes = heroes;
+        allHeroes.checkAllHeroesFilled();
+	});
+	var wuParser = new SanguoshaParser();
+	wuParser.parseCharacterListPage("http://www.englishsanguosha.com/wu", function(heroes){
+		allHeroes.wuHeroes = heroes;
+        allHeroes.checkAllHeroesFilled();
+	});
+	var heroParser = new SanguoshaParser();
+	heroParser.parseCharacterListPage("http://www.englishsanguosha.com/hero", function(heroes){
+		allHeroes.heroHeroes = heroes;
+        allHeroes.checkAllHeroesFilled();
+	});
+	var godParser = new SanguoshaParser();
+	godParser.parseCharacterListPage("http://www.englishsanguosha.com/god", function(heroes){
+		allHeroes.godHeroes = heroes;
+        allHeroes.checkAllHeroesFilled();
+	});
 </script>
 
 </html>

@@ -8,7 +8,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>English Sanguosha</title>	
+	<title>Original English Sanguosha Parser</title>
 </head>
 
 <body id="result">
@@ -25,32 +25,27 @@
 <!--<script src="js/lib/pure-js-html5-parser/htmlparser.js"></script>-->
 
 <script>
-	var allHeroes = new SanguoshaAllHeroes();
+	var allHeroes = new SanguoshaAllHeroes(5);
 
 	var weiParser = new SanguoshaParser();
 	weiParser.parseCharacterListPage("http://www.englishsanguosha.com/wei", function(heroes){
-		allHeroes.weiHeroes = heroes;
-        allHeroes.checkAllHeroesFilled();
+		allHeroes.addHeroes(heroes);
 	});
 	var shuParser = new SanguoshaParser();
 	shuParser.parseCharacterListPage("http://www.englishsanguosha.com/shu", function(heroes){
-		allHeroes.shuHeroes = heroes;
-        allHeroes.checkAllHeroesFilled();
+        allHeroes.addHeroes(heroes);
 	});
 	var wuParser = new SanguoshaParser();
 	wuParser.parseCharacterListPage("http://www.englishsanguosha.com/wu", function(heroes){
-		allHeroes.wuHeroes = heroes;
-        allHeroes.checkAllHeroesFilled();
+        allHeroes.addHeroes(heroes);
 	});
 	var heroParser = new SanguoshaParser();
 	heroParser.parseCharacterListPage("http://www.englishsanguosha.com/hero", function(heroes){
-		allHeroes.heroHeroes = heroes;
-        allHeroes.checkAllHeroesFilled();
+        allHeroes.addHeroes(heroes);
 	});
 	var godParser = new SanguoshaParser();
 	godParser.parseCharacterListPage("http://www.englishsanguosha.com/god", function(heroes){
-		allHeroes.godHeroes = heroes;
-        allHeroes.checkAllHeroesFilled();
+        allHeroes.addHeroes(heroes);
 	});
 </script>
 

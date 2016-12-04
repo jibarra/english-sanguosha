@@ -1,8 +1,9 @@
 /**
  * Created by jose on 12/3/16.
  */
-function SanguoshaHero(heroName, sanguoshaAbilities, imageUrl, originalSiteUrl){
+function SanguoshaHero(heroName, heroType, sanguoshaAbilities, imageUrl, originalSiteUrl){
     this.heroName = heroName;
+    this.heroType = heroType;
     //Array of SanguoshaAbility
     this.sanguoshaAbilities = sanguoshaAbilities;
     this.imageUrl = imageUrl;
@@ -14,18 +15,21 @@ function SanguoshaAbility(abilityName, abilityDescription){
     this.abilityDescription = abilityDescription;
 }
 
-function SanguoshaAllHeroes(){
-    this.weiHeroes;
-    this.shuHeroes;
-    this.wuHeroes;
-    this.heroHeroes;
-    this.godHeroes;
+function SanguoshaAllHeroes(numHeroTypes){
+    this.numHeroTypes = numHeroTypes;
+    this.countedHeroTypes = 0;
+    this.allHeroes = [];
 
-    this.checkAllHeroesFilled = function(){
-        if(allHeroes.weiHeroes != undefined && allHeroes.shuHeroes != undefined
-            && allHeroes.wuHeroes != undefined && allHeroes.heroHeroes != undefined
-            && allHeroes.godHeroes != undefined){
-            console.log(JSON.stringify(allHeroes, null, 2));
+    this.addHeroes = function(heroList) {
+        // this.allHeroes = allHeroes.concat(heroList);
+        Array.prototype.push.apply(this.allHeroes, heroList);
+        this.countedHeroTypes++;
+
+        if(this.numHeroTypes === this.countedHeroTypes){
+            console.log(JSON.stringify(this.allHeroes, null, 2));
         }
+        // for(var i = 0; i < heroList.length; i++){
+        //
+        // }
     }
 }

@@ -1,32 +1,35 @@
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-12">
-            <!--Sidebar content-->
-
-            Search: <input ng-model="$ctrl.query" />
-
-        </div>
-    </div>
-    <div class="row">
-        <div ng-repeat="hero in $ctrl.heroes | filter:$ctrl.query">
-            <!--http://getbootstrap.com/css/#grid-responsive-resets-->
-            <!--<div class="clearfix visible-md-block"></div>-->
-            <div class="col-xs-6 col-sm-4 col-md-3">
-                <!--Body content-->
-                <ul class="heroes">
-                    <li>
-                        <p><span>{{hero.heroName}}</span></p>
-                        <p>{{hero.heroType}}</p>
-                        <p ng-repeat="ability in hero.sanguoshaAbilities">
-                            {{ability.abilityName}} : {{ability.abilityDescription}}
-                        </p>
-                        <p><img ng-src="{{hero.imageUrl}}" style="width:100px"></p>
-                        <p><a ng-href="{{hero.originalSiteUrl}}">Original Source</a></p>
-                        <!--<p>{{hero.imageUrl}}</p>-->
-                        <!--<p>{{hero.originalSiteUrl}}</p>-->
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
+<table st-table="$ctrl.displayHeroes" st-safe-src="$ctrl.editHeroes" class="table table-striped">
+    <thead>
+    <tr>
+        <th st-sort="heroName">Hero</th>
+        <th>Image</th>
+        <th>Abilities</th>
+        <th>Original Source</th>
+    </tr>
+    <tr>
+        <th colspan="1">
+            <input st-search="heroName" placeholder="Hero Name" class="input-sm form-control" type="search"/>
+        </th>
+        <th colspan="1">
+            <input st-search="heroType" placeholder="Type (Shu, Wei, etc.)" class="input-sm form-control" type="search"/>
+        </th>
+    </tr>
+    <tr>
+        <th colspan="4">
+            <input st-search placeholder="Search" class="input-sm form-control" type="search"/>
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="hero in $ctrl.displayHeroes">
+        <td>{{hero.heroName}}</td>
+        <td><img ng-src="{{hero.imageUrl}}" style="width:100%"></td>
+        <td>
+            <p ng-repeat="ability in hero.sanguoshaAbilities">
+                {{ability.abilityName}} : {{ability.abilityDescription}}
+            </p>
+        </td>
+        <td><a ng-href="{{hero.originalSiteUrl}}">Original Source</a></td>
+    </tr>
+    </tbody>
+</table>

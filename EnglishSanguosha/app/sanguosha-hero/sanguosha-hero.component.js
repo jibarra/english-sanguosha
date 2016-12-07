@@ -8,7 +8,8 @@ component('sanguoshaHero', {
     controller: function SanguoshaHeroController($http) {
         var self = this;
         $http.get('data/sanguosha-heroes.json').then(function(response) {
-            self.heroes = response.data;
+            self.displayHeroes = response.data;
+            self.editHeroes = [].concat(self.displayHeroes);
             // console.log(self.heroes);
         });
     }

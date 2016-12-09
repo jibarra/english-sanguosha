@@ -1,12 +1,8 @@
-body {
-    padding-top: 20px;
+div.hero-table > div:nth-of-type(even) {
+    background: #f9f9f9;
 }
 
-.row{
-    overflow: hidden;
-}
-
-[class*="col-"]{
-    margin-bottom: -99999px;
-    padding-bottom: 99999px;
+div.hero-table > div {
+    padding-bottom: 5px;
+    padding-top: 5px;
 }

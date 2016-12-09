@@ -1,35 +1,58 @@
-<table st-table="$ctrl.displayHeroes" st-safe-src="$ctrl.editHeroes" class="table table-striped">
-    <thead>
-    <tr>
-        <th st-sort="heroName">Hero</th>
-        <th>Image</th>
-        <th>Abilities</th>
-        <th>Original Source</th>
-    </tr>
-    <tr>
-        <th colspan="1">
-            <input st-search="heroName" placeholder="Hero Name" class="input-sm form-control" type="search"/>
-        </th>
-        <th colspan="1">
-            <input st-search="heroType" placeholder="Type (Shu, Wei, etc.)" class="input-sm form-control" type="search"/>
-        </th>
-    </tr>
-    <tr>
-        <th colspan="4">
-            <input st-search placeholder="Search" class="input-sm form-control" type="search"/>
-        </th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr ng-repeat="hero in $ctrl.displayHeroes">
-        <td>{{hero.heroName}}</td>
-        <td><img ng-src="{{hero.imageUrl}}" style="width:100%"></td>
-        <td>
-            <p ng-repeat="ability in hero.sanguoshaAbilities">
-                {{ability.abilityName}} : {{ability.abilityDescription}}
-            </p>
-        </td>
-        <td><a ng-href="{{hero.originalSiteUrl}}">Original Source</a></td>
-    </tr>
-    </tbody>
-</table>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-4">
+            Search:
+            <input placeholder="Search" ng-model="$ctrl.globalSearch" style="width:75%">
+        </div>
+        <div class="col-xs-4 col-sm-2">
+            Health:
+            <select ng-model="$ctrl.healthSearch">
+                <option value=""></option>
+                <option value="4">3</option>
+                <option value="3">4</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+        <div class="col-xs-4 col-sm-2">
+            Type:
+            <select ng-model="$ctrl.heroTypeSearch">
+                <option value=""></option>
+                <option value="wei">Wei</option>
+                <option value="shu">Shu</option>
+                <option value="wu">Wu</option>
+                <option value="hero">Hero</option>
+                <option value="god">God</option>
+            </select>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row" style="font-weight:bold">
+        <div class="col-xs-4 col-sm-2">Hero</div>
+        <div class="col-xs-4 col-sm-2">Image</div>
+        <div class="hidden-xs col-sm-6">Abilities</div>
+        <div class="col-xs-4 col-sm-2">Source</div>
+    </div>
+</div>
+<div class="container-fluid hero-table">
+    <div ng-repeat="hero in $ctrl.displayHeroes | filter: { heroType: $ctrl.heroTypeSearch   }" ng-click="$ctrl.display(hero);">
+        <div class="row">
+            <div class="col-xs-4 col-sm-2">{{hero.heroName}}</div>
+            <div class="col-xs-4 col-sm-2"><img ng-src="{{hero.imageUrl}}" style="width:100%"></div>
+            <div class="hidden-xs col-sm-6">
+                <p ng-repeat="ability in hero.sanguoshaAbilities">
+                    {{ability.abilityName}} : {{ability.abilityDescription}}
+                </p>
+            </div>
+            <div class="col-xs-4 col-sm-2"><a ng-href="{{hero.originalSiteUrl}}">Url</a></div>
+        </div>
+        <div class="row visible-xs" ng-if="hero.selected === true">
+            <div class="col-xs-3" style="text-align:right; font-weight:bold;">Abilities</div>
+            <div class="col-xs-9">
+                <p ng-repeat="ability in hero.sanguoshaAbilities">
+                    {{ability.abilityName}} : {{ability.abilityDescription}}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
